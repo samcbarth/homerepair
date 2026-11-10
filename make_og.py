@@ -28,11 +28,14 @@ def font(size, bold=False):
 
 
 for slug, (title, sub) in CARDS.items():
-    im = Image.new("RGB", (1200, 630), "#1f5f8b")
+    im = Image.new("RGB", (1200, 630), "#000000")
     d = ImageDraw.Draw(im)
-    d.rectangle([0, 560, 1200, 630], fill="#c2410c")
+    for x in range(1200):  # black -> purple signature band
+        t = x / 1199
+        d.line([(x, 552), (x, 558)], fill=(int(154 * t), 0, int(255 * t)))
+    d.ellipse([80, 160, 96, 176], fill="#9a00ff")
     d.text((80, 200), title, font=font(96, True), fill="white")
-    d.text((80, 330), sub, font=font(48), fill="#dbeafe")
-    d.text((80, 575), "homerepair.samcbarth.com", font=font(34, True), fill="white")
+    d.text((80, 330), sub, font=font(48), fill="#b9b9b9")
+    d.text((80, 575), "homerepair.samcbarth.com", font=font(34, True), fill="#8e7cc3")
     im.save(OUT / f"{slug}.png", optimize=True)
 print("ok", len(CARDS))

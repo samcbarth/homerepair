@@ -146,27 +146,31 @@ def page(path, title, desc, body, crumbs=None, ld=None, og_type="website", og_im
 <meta property="og:url" content="{canonical}">
 <meta property="og:image" content="{BASE}{og_image}">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="theme-color" content="#1f5f8b">
+<meta name="theme-color" content="#000000">
+<meta name="color-scheme" content="dark">
 <link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
 <link rel="alternate" type="application/rss+xml" title="{esc(SITE)}" href="/feed.xml">
 <link rel="alternate" type="application/feed+json" title="{esc(CFG["NEWS_BRAND"])}" href="/news/feed.json">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@700&family=Barlow:wght@900&family=Inter:wght@400;500;700&display=swap">
 <link rel="stylesheet" href="/assets/style.css">
-<script>try{{var t=localStorage.getItem('theme');if(t)document.documentElement.setAttribute('data-theme',t)}}catch(e){{}}</script>
 {extra_head}{ld_html}
 </head>
 <body>
 <a class="skip" href="#main">Skip to content</a>
 <header class="site-head">
  <div class="wrap head-row">
-  <a class="brand" href="/">{icon("tool", 24)}<span>{esc(SITE)}</span></a>
-  <button class="theme-btn" type="button" aria-label="Toggle dark mode">Theme</button>
+  <a class="brand" href="/"><span class="dot" aria-hidden="true"></span><span>{esc(SITE)}</span></a>
+  <nav class="main-nav" aria-label="Main">{nav}<a href="/calculators/">Calculators</a><a href="/basic-home-toolkit/">Toolkit</a><a href="/news/">News</a></nav>
  </div>
- <nav class="wrap main-nav" aria-label="Main">{nav}<a href="/calculators/">Calculators</a><a href="/basic-home-toolkit/">Toolkit</a><a href="/news/">News</a></nav>
 </header>
+<div class="grad-band" aria-hidden="true"></div>
 <main id="main" class="wrap">
 {crumbs_html(crumbs) if crumbs else ""}
 {body}
 </main>
+<div class="grad-band" aria-hidden="true"></div>
 <footer class="site-foot">
  <div class="wrap">
   <p class="foot-links"><a href="/about/">About</a><a href="/contact/">Contact</a><a href="/privacy/">Privacy</a><a href="/terms/">Terms</a><a href="/affiliate-disclosure/">Affiliate disclosure</a><a href="/guides/">All guides</a><a href="/feed.xml">RSS</a></p>
@@ -492,12 +496,12 @@ def build_home():
     cats = "".join(f'<a class="cat" href="/{c["slug"]}/">{icon(c["slug"])}<strong>{esc(c["name"])}</strong><span>{sum(1 for g in GUIDES if g["category"]==c["slug"])} guides</span></a>' for c in CATS)
     popular = [G[s] for s in ["fix-running-toilet", "fix-leaky-faucet", "unclog-sink-drain", "reset-tripped-gfci", "patch-small-drywall-hole", "fix-garbage-disposal-jam", "water-heater-not-hot", "fix-squeaky-door"] if s in G]
     body = f'''
-<section class="hero"><h1>Fix common home problems yourself, safely</h1>
+<section class="hero"><p class="eyebrow">DIY home repair, done safely</p><h1>Fix common home problems yourself, safely</h1>
 <p class="lead">Step-by-step repair guides with the tools you need, the steps in order, and a clear line on when to call a pro. Based on manufacturer instructions and published safety guidance.</p>
 <form class="search" action="/guides/" role="search"><label class="sr" for="q">Search guides</label><input id="q" name="q" type="search" placeholder="Search guides: toilet, faucet, outlet..."><button type="submit">Search</button></form></section>
-<section><h2>Browse by area of the house</h2><div class="cats">{cats}</div></section>
+<section class="band"><h2>Browse by area of the house</h2><div class="cats">{cats}</div></section>
 <section><h2>Most-needed repairs</h2><div class="cards">{"".join(guide_card(g) for g in popular)}</div></section>
-<section class="two"><div><h2>Calculators</h2><ul class="plain">{"".join(f'<li><a href="/calculators/{x["slug"]}/">{esc(x["title"])}</a></li>' for x in CALCS)}</ul>
+<section class="two band"><div><h2>Calculators</h2><ul class="plain">{"".join(f'<li><a href="/calculators/{x["slug"]}/">{esc(x["title"])}</a></li>' for x in CALCS)}</ul>
 <h2>Start a toolkit</h2><p>Not sure what to buy? The <a href="/basic-home-toolkit/">basic home toolkit</a> covers the dozen or so tools that handle most of these repairs.</p></div>
 <div><h2>Latest news</h2><ul class="plain">{"".join(f'<li><a href="/news/{n["slug"]}/">{esc(n["title"])}</a> <span class="muted small">{fmt_date(n["date"])}</span></li>' for n in NEWS[:5])}</ul><p><a href="/news/">All news</a></p></div></section>'''
     page("/", f"{SITE}: DIY Home Repair Guides", "Plain-English DIY home repair guides: running toilets, leaky faucets, clogged drains, drywall holes, GFCI outlets and more, with tools, steps and safety notes.",
@@ -526,7 +530,7 @@ def build_static_pages():
         body = f'<article class="guide prose"><h1>{esc(p["title"])}</h1>{p["html"]}'
         if p["slug"] == "contact":
             if CFG.get("CONTACT_FORM_ID"):
-                body += '<div class="hs-form-slot" data-hs-form="contact"></div>'
+                body += '<div class="hs-form-slot" id="hs-contact" data-hs-form="contact"></div>'
             elif CFG.get("CONTACT_EMAIL"):
                 body += f'<p><a class="btn" href="mailto:{esc(CFG["CONTACT_EMAIL"])}">Email {esc(CFG["CONTACT_EMAIL"])}</a></p>'
             else:

@@ -1,20 +1,27 @@
-/* Fix It Notes: theme toggle, guide filter, optional AdSense + HubSpot form. No dependencies. */
+/* Fix It Notes: sticky nav, guide filter, optional AdSense + HubSpot form. No dependencies. */
 (function () {
   'use strict';
   var CFG = window.SITE_CONFIG || {};
   var root = document.documentElement;
 
-  /* Theme toggle */
-  var btn = document.querySelector('.theme-btn');
-  if (btn) {
-    btn.addEventListener('click', function () {
-      var cur = root.getAttribute('data-theme') ||
-        (window.matchMedia && matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
-      var next = cur === 'dark' ? 'light' : 'dark';
-      root.setAttribute('data-theme', next);
-      try { localStorage.setItem('theme', next); } catch (e) {}
-    });
+  /* Sticky nav: darken + blur once scrolled */
+  var head = document.querySelector('.site-head');
+  if (head) {
+    var onScroll = function () { head.classList.toggle('scrolled', window.scrollY > 8); };
+    window.addEventListener('scroll', onScroll, { passive: true });
+    onScroll();
   }
+
+  /* Mark the active nav link (guides map to their category via the breadcrumb) */
+  var path = location.pathname;
+  var crumb = document.querySelector('.crumbs a[href^="/"]:not([href="/"])');
+  var navLinks = document.querySelectorAll('.main-nav a');
+  navLinks.forEach(function (a) {
+    var href = a.getAttribute('href');
+    if (path.indexOf(href) === 0 || (crumb && path.indexOf('/guides/') === 0 && crumb.getAttribute('href') === href)) {
+      a.setAttribute('aria-current', 'page');
+    }
+  });
 
   /* Guide filter on /guides/ (also handles ?q= from the home search) */
   var idxEl = document.getElementById('gindex');
@@ -63,7 +70,26 @@
     h.async = true;
     h.onload = function () {
       form.id = form.id || 'hs-contact';
-      window.hbspt.forms.create({ region: CFG.HUBSPOT_REGION, portalId: CFG.HUBSPOT_PORTAL, formId: CFG.CONTACT_FORM_ID, target: '#' + form.id });
+      window.hbspt.forms.create({
+        region: CFG.HUBSPOT_REGION, portalId: CFG.HUBSPOT_PORTAL, formId: CFG.CONTACT_FORM_ID, target: '#' + form.id,
+        onFormReady: function () {
+          /* The embed renders in a same-origin iframe with light-theme colors; restyle it for the dark brand (AA contrast). */
+          var fr = form.querySelector('iframe');
+          var doc = fr && fr.contentDocument;
+          if (!doc || !doc.head) return;
+          var st = doc.createElement('style');
+          st.textContent =
+            'body,form{font-family:Inter,"Helvetica Neue",Helvetica,Arial,sans-serif !important;background:transparent !important}' +
+            'label,legend,.hs-form-field>label,.hs-richtext,.hs-richtext p{color:#fff !important;font-size:14px !important;font-weight:700 !important}' +
+            '.hs-field-desc,.legal-consent-container,.legal-consent-container p{color:rgba(255,255,255,.72) !important;font-size:13px !important}' +
+            '.hs-form-required{color:#ff9b7a !important}' +
+            '.hs-error-msg,.hs-error-msgs label{color:#ff9b7a !important}' +
+            'input.hs-input,textarea.hs-input,select.hs-input{background:#000 !important;color:#fff !important;border:1px solid rgba(255,255,255,.28) !important;border-radius:4px !important;min-height:46px;font-size:16px !important}' +
+            '.hs-button{background:#9a00ff !important;border:0 !important;border-radius:50px !important;min-height:52px;padding:0 28px !important;font:700 14px/1 Inter,Arial,sans-serif !important;text-transform:uppercase;letter-spacing:.06em;color:#fff !important;cursor:pointer}' +
+            '.submitted-message,.submitted-message p{color:#fff !important}';
+          doc.head.appendChild(st);
+        }
+      });
     };
     h.onerror = function () {
       form.innerHTML = '<p>The form did not load (an ad blocker can do this).' + (CFG.CONTACT_EMAIL ? ' Email <a href="mailto:' + CFG.CONTACT_EMAIL + '">' + CFG.CONTACT_EMAIL + '</a> instead.' : '') + '</p>';
