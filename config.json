@@ -1,0 +1,15 @@
+{
+  "_help": "Site ids. Leave a value empty and the matching slot renders nothing. Run `python build.py` after editing.",
+  "SITE_NAME": "Fix It Notes",
+  "SITE_TAGLINE": "Plain-English DIY home repair guides",
+  "BASE_URL": "https://homerepair.samcbarth.com",
+  "NEWS_BRAND": "Fix It Notes Bulletin",
+  "AUTHOR": "Sam Barth",
+  "GTM_ID": "GTM-KMS4X55L",
+  "ADSENSE_CLIENT": "",
+  "AMAZON_TAG": "",
+  "HUBSPOT_PORTAL": "20693956",
+  "HUBSPOT_REGION": "na1",
+  "CONTACT_FORM_ID": "",
+  "CONTACT_EMAIL": ""
+}

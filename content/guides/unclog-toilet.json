@@ -1,0 +1,50 @@
+{
+ "slug": "unclog-toilet",
+ "title": "How to Unclog a Toilet",
+ "category": "plumbing",
+ "meta": "Unclog a toilet with a flange plunger the right way, and use a closet auger for stubborn clogs. Plus how to stop an overflowing toilet fast.",
+ "summary": "Use a flange plunger with a tight seal and pull back as hard as you push, about a dozen strokes. If plunging fails, a closet auger (toilet auger) clears most stubborn clogs without scratching the bowl.",
+ "difficulty": "Easy",
+ "time": "5 to 30 minutes",
+ "howto_verb": "unclog a toilet",
+ "keywords": ["clogged toilet", "toilet won't flush", "closet auger", "toilet overflow", "plunger"],
+ "causes": "Toilet clogs form in the trapway, the curved channel built into the porcelain. Too much paper, wipes (even ones labeled flushable), and small objects are the usual culprits. Low-flow toilets with a partly clogged trapway may need two flushes; that is a sign to clear it before it fully blocks.",
+ "warnings": [],
+ "tools": [
+  {"name": "Flange plunger (toilet plunger)", "q": "toilet flange plunger heavy duty", "note": "The extra rubber sleeve seals the drain opening"},
+  {"name": "Closet auger (toilet auger), 3 to 6 foot", "q": "toilet closet auger", "note": "Has a rubber sleeve to protect porcelain"},
+  {"name": "Rubber gloves", "q": "long cuff rubber gloves", "note": ""}
+ ],
+ "materials": [
+  {"name": "Old towels", "q": "bath towels pack", "note": "To protect the floor"}
+ ],
+ "steps": [
+  {"title": "Stop an overflow first", "text": "If the bowl is rising, lift the tank lid and push the flapper down to close it, then turn the shutoff valve behind the toilet clockwise."},
+  {"title": "Get the water level right", "text": "You want enough water in the bowl to cover the plunger cup. Bail some out into a bucket if it is near the rim, or add a little if the bowl is nearly empty."},
+  {"title": "Plunge with a good seal", "text": "Fold the flange out and fit it into the drain opening. Start with a gentle push to get the air out, then plunge firmly in and out about 12 to 15 times, putting effort into the pull stroke. Pulling back tends to break up a clog; pushing hard can pack it deeper."},
+  {"title": "Use a closet auger if needed", "text": "Pull the auger handle up so the cable is retracted, set the rubber-sleeved bend into the bowl outlet, then crank and push the cable down into the trapway. Crank, pull back, and repeat until the water drains. Retract the cable before lifting it out."},
+  {"title": "Test with a flush", "text": "Turn the water back on and flush once while watching the level, with your hand ready to close the flapper."}
+ ],
+ "safety": [
+  "Do not use chemical drain cleaners in a toilet; they rarely work on toilet clogs and make plunging dangerous.",
+  "Do not use a regular drain snake in a toilet; it can scratch the porcelain. Use a closet auger.",
+  "Wash hands and tools after the job."
+ ],
+ "call_pro": [
+  "An object such as a toy or phone is stuck; the toilet may need to be pulled.",
+  "Other drains in the house back up or gurgle when you flush.",
+  "The auger cannot get through, which can mean a blockage in the main line."
+ ],
+ "faq": [
+  {"q": "Why does pulling back on the plunger matter?", "a": "This Old House explains that forcing down can compact the clog deeper into the narrowing trapway, while a tight seal and pulling back breaks it into smaller pieces."},
+  {"q": "Are flushable wipes safe for toilets?", "a": "Many wipes do not break down like toilet paper and are a common cause of clogs. Put them in the trash."},
+  {"q": "What if the toilet clogs often?", "a": "Repeated clogs can mean a partial blockage deeper in the trapway, a problem with the vent, or a toilet with weak flushing. An auger can clear a partial blockage; a plumber can diagnose the rest."}
+ ],
+ "sources": [
+  {"name": "This Old House: How to clear any clogged drain", "url": "https://www.thisoldhouse.com/plumbing/21164644/how-to-clear-any-clogged-drain"},
+  {"name": "This Old House: How to use a plunger", "url": "https://www.thisoldhouse.com/plumbing/how-to-use-a-plunger"}
+ ],
+ "related": ["fix-running-toilet", "unclog-sink-drain", "shut-off-main-water"],
+ "published": "2026-11-09",
+ "updated": "2026-11-09"
+}

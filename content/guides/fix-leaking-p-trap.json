@@ -1,0 +1,54 @@
+{
+ "slug": "fix-leaking-p-trap",
+ "title": "How to Fix a Leak Under the Sink (P-Trap and Drain)",
+ "category": "plumbing",
+ "meta": "Water under the sink? Find whether it is the P-trap, drain flange or supply line, then tighten, reseat washers or replace the trap step by step.",
+ "summary": "Dry everything, run water, and watch to find the exact drip. Leaks at the curved P-trap are usually fixed by reseating or replacing the slip-nut washers or swapping in a new plastic trap kit; leaks at the supply lines need a new braided connector.",
+ "difficulty": "Easy",
+ "time": "20 to 60 minutes",
+ "howto_verb": "fix a leaking P-trap",
+ "keywords": ["leak under sink", "p-trap leak", "slip nut", "drain leak", "sink cabinet wet"],
+ "causes": "Under-sink water comes from three places: the drain (P-trap slip nuts, the tailpiece, or the strainer where the drain meets the sink), the supply lines and shutoff valves, or the faucet itself running down the outside. Drain leaks only drip while water is draining. Supply leaks drip all the time, even with the faucet off.",
+ "warnings": [],
+ "tools": [
+  {"name": "Tongue-and-groove pliers", "q": "tongue and groove pliers set", "note": ""},
+  {"name": "Flashlight", "q": "led flashlight bright", "note": ""},
+  {"name": "Bucket", "q": "5 gallon bucket", "note": ""}
+ ],
+ "materials": [
+  {"name": "P-trap kit (1 1/4 inch bath or 1 1/2 inch kitchen)", "q": "pvc p-trap kit 1-1/2 inch", "note": "Comes with new slip nuts and washers"},
+  {"name": "Braided stainless supply line, if a supply connector leaks", "q": "braided faucet supply line", "note": "Measure length and fitting sizes"},
+  {"name": "Plumber's putty, for a leaking drain strainer", "q": "plumbers putty", "note": ""},
+  {"name": "Paper towels", "q": "paper towels", "note": "For finding drips"}
+ ],
+ "steps": [
+  {"title": "Dry everything and find the drip", "text": "Empty the cabinet, dry all pipes and the cabinet floor, and set a dry paper towel underneath. Run water with the stopper closed to fill the basin, then pull the stopper so a full rush of water goes down. Watch each joint with a flashlight and wipe with a fresh towel to see where water appears first."},
+  {"title": "Tighten the slip nuts", "text": "If a P-trap joint drips, hand tighten the slip nut, then a quarter turn more with pliers. Plastic nuts crack if forced."},
+  {"title": "Reseat or replace the washers", "text": "If tightening does not stop it, put a bucket under the trap, unscrew the nuts and pull the trap. Check the cone-shaped washers: the flat side goes against the nut and the tapered side faces the joint. Replace any that are cracked or flattened, or install a new trap kit."},
+  {"title": "Fix a leaking drain strainer", "text": "If water seeps from where the drain meets the sink basin, unscrew the large nut under the sink, lift out the strainer, clean off the old putty, press a rope of fresh plumber's putty under the flange, and reinstall."},
+  {"title": "Replace a leaking supply line", "text": "Shut off the valve, put a towel under it, unscrew both ends of the supply line, and install a new braided line hand tight plus a quarter turn with a wrench. Turn the valve on slowly and check for drips."},
+  {"title": "Test for a full day", "text": "Leave a dry paper towel under the joints overnight. A dry towel the next morning means you are done."}
+ ],
+ "safety": [
+  "If a drain cleaner was used recently, wear gloves and eye protection before opening the trap.",
+  "Do not use plumber's putty on some stone sinks; it can stain. Use the sealant the sink maker recommends."
+ ],
+ "call_pro": [
+  "The shutoff valve leaks from its stem or will not shut off.",
+  "Water is coming from inside the wall behind the sink.",
+  "Old metal drain pipes are corroded through or the trap arm in the wall is cracked."
+ ],
+ "faq": [
+  {"q": "Should I use Teflon tape on slip nuts?", "a": "No. Slip joints seal with the beveled washer, not the threads. Tape can keep the nut from seating properly."},
+  {"q": "Why does my P-trap leak only when the sink drains fast?", "a": "A full basin draining at once puts the most water through the joints, which shows weak seals. That is why the full-basin test finds leaks better than a running tap."},
+  {"q": "Can a P-trap be too loose or misaligned?", "a": "Yes. If the pipes are not lined up straight, the washer seals on one side only. Loosen both nuts, line up the trap, and retighten."}
+ ],
+ "sources": [
+  {"name": "This Old House: How to clear a clogged sink drain (trap removal)", "url": "https://www.thisoldhouse.com/plumbing/how-to-clear-a-clogged-sink-drain"},
+  {"name": "Family Handyman: How to clear clogged drains", "url": "https://www.familyhandyman.com/project/how-to-clear-clogged-drains/"},
+  {"name": "EPA WaterSense: Home maintenance", "url": "https://www.epa.gov/watersense/home-maintenance"}
+ ],
+ "related": ["unclog-sink-drain", "fix-leaky-faucet", "fix-garbage-disposal-jam"],
+ "published": "2026-11-09",
+ "updated": "2026-11-09"
+}

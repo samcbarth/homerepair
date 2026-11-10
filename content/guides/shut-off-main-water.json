@@ -1,0 +1,48 @@
+{
+ "slug": "shut-off-main-water",
+ "title": "How to Find and Shut Off Your Main Water Valve",
+ "category": "plumbing",
+ "meta": "Find your home's main water shutoff before an emergency: where it usually is, how gate and ball valves work, and how to use the curb stop.",
+ "summary": "The main shutoff is usually where the water line enters the house: in a basement or crawl space on the front wall, near the water heater, in a garage, or in a utility closet. Turn a round gate valve clockwise until it stops; turn a ball valve lever a quarter turn so it sits crosswise to the pipe.",
+ "difficulty": "Easy",
+ "time": "10 to 20 minutes",
+ "howto_verb": "shut off the main water",
+ "keywords": ["main water shutoff", "water emergency", "burst pipe", "curb stop", "water meter valve"],
+ "causes": "Knowing where the main valve is turns a burst pipe or failed supply line from a flooded room into a mop-up. Homes in cold climates often have the main indoors near the meter. In warm climates the meter and shutoff may be outside in a box near the street or along the foundation.",
+ "warnings": [],
+ "tools": [
+  {"name": "Flashlight", "q": "led flashlight", "note": ""},
+  {"name": "Water meter key or curb key (for an outdoor curb stop)", "q": "water meter key curb stop", "note": "Check local rules; some utilities ask you to call them"},
+  {"name": "Valve tags or a paint marker", "q": "plumbing valve tags", "note": "Label it so anyone can find it"}
+ ],
+ "materials": [],
+ "steps": [
+  {"title": "Follow the line in", "text": "Find where the water pipe comes through the foundation or floor, often on the wall facing the street. Check the basement, crawl space, garage, utility room, and near the water heater. Your home inspection report may name the location."},
+  {"title": "Identify the valve type", "text": "A round wheel handle is a gate or globe valve: turn it clockwise until it stops. A straight lever is a ball valve: a quarter turn so the lever sits across the pipe means off."},
+  {"title": "Test it", "text": "Turn the valve off, then open a faucet on the lowest floor. Flow should stop within a minute. Turn the valve back on slowly to avoid a water hammer bang, and let the faucet run until it stops sputtering."},
+  {"title": "Know the backup: the curb stop", "text": "If the house valve fails, there is usually a utility shutoff at the meter or curb box. Many utilities allow homeowners to use it with a meter key; others ask you to call. Check your water utility's guidance now, not during an emergency."},
+  {"title": "Label it and tell everyone", "text": "Hang a tag on the valve and show everyone in the house where it is and which way to turn it."}
+ ],
+ "safety": [
+  "Old gate valves can stick or break if forced. If it will not move with firm hand pressure, use the curb stop or call your utility.",
+  "After a shutoff, turn off a gas or electric water heater if the house will be without water for a long time, per its manual.",
+  "If a pipe burst near electrical outlets or the panel, stay out of standing water and shut off power at the breaker only if you can reach it from a dry spot."
+ ],
+ "call_pro": [
+  "The main valve leaks from its stem or will not shut off fully.",
+  "You cannot find the main valve at all.",
+  "You want an old gate valve replaced with a quarter-turn ball valve."
+ ],
+ "faq": [
+  {"q": "Which way do I turn to shut off the water?", "a": "Clockwise for a round handle. For a lever, a quarter turn so the lever is perpendicular to the pipe."},
+  {"q": "Should I shut off the main water when I travel?", "a": "Many homeowners do for long trips to limit damage from a leak. In winter, keep the heat on; the American Red Cross suggests no lower than 55 degrees F to help prevent frozen pipes."},
+  {"q": "What if water keeps flowing after I shut the valve?", "a": "Some water drains from the pipes for a minute. If it keeps flowing, the valve is not sealing; use the curb stop or call the utility."}
+ ],
+ "sources": [
+  {"name": "American Red Cross: Preventing and thawing frozen pipes", "url": "https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/winter-storm/frozen-pipes.html"},
+  {"name": "EPA WaterSense: Home maintenance", "url": "https://www.epa.gov/watersense/home-maintenance"}
+ ],
+ "related": ["winterize-outdoor-faucet", "fix-running-toilet", "fix-leaking-p-trap"],
+ "published": "2026-11-09",
+ "updated": "2026-11-09"
+}

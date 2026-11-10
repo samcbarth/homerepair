@@ -1,0 +1,57 @@
+{
+ "slug": "water-heater-not-hot",
+ "title": "Water Heater Not Heating? What to Check First",
+ "category": "plumbing",
+ "meta": "No hot water? Safe owner checks for electric and gas tank water heaters: breaker, high-limit reset, pilot and gas valve, thermostat setting, and when to call a pro.",
+ "summary": "For an electric water heater, check the breaker first, then press the red high-limit reset behind the upper access panel with the power off. For gas, confirm the gas valve is open and the pilot is lit, following the lighting label on the tank. If a reset trips again or the pilot will not stay lit, call a licensed pro.",
+ "difficulty": "Moderate",
+ "time": "15 to 45 minutes",
+ "howto_verb": "troubleshoot a water heater",
+ "keywords": ["no hot water", "water heater reset button", "pilot light out", "lukewarm water", "electric water heater"],
+ "causes": "Electric tank heaters stop heating when the breaker trips, the high-limit safety switch (energy cut-off) trips, or an element or thermostat fails. Gas tank heaters stop when the pilot goes out, the gas supply is off, or a thermocouple, thermopile or gas control fails. Water that is warm but runs out quickly can mean a failed lower element, heavy sediment, or a thermostat set too low.",
+ "warnings": ["electrical", "gas"],
+ "tools": [
+  {"name": "Flashlight", "q": "led flashlight", "note": ""},
+  {"name": "Screwdriver", "q": "screwdriver set", "note": "For the electric heater's access panels"},
+  {"name": "Non-contact voltage tester", "q": "non contact voltage tester", "note": "To confirm power is off before opening panels"},
+  {"name": "Long-reach lighter, for older match-lit pilots", "q": "long reach utility lighter", "note": "Most newer units have a built-in igniter"}
+ ],
+ "materials": [],
+ "steps": [
+  {"title": "Read the label on the tank", "text": "Find the brand, model, fuel type and the lighting or operating instructions printed on the tank. Those instructions come first; the steps below are general."},
+  {"title": "Electric: check the breaker", "text": "Water heaters are on a 240-volt double breaker. If it is tripped, switch it fully off, then on. If it trips again right away, leave it off and call an electrician or plumber."},
+  {"title": "Electric: press the high-limit reset", "text": "Turn the breaker off and confirm with a voltage tester. Remove the upper access panel and pull back the insulation without touching wires or terminals. Press the red reset button firmly until it clicks. Replace the insulation and panel, then turn the breaker on and wait an hour or more for the tank to heat."},
+  {"title": "Gas: check gas and pilot", "text": "Make sure the gas shutoff on the supply line is open (handle in line with the pipe). Look through the sight glass for the pilot flame. Many newer gas valves have a status light; A. O. Smith notes a lit pilot makes it flash about once every three seconds."},
+  {"title": "Gas: relight only by the label", "text": "If the pilot is out and you do not smell gas, follow the lighting instructions on the tank exactly, including the wait time before relighting. If it goes out as soon as you release the control knob, stop; that usually means a part needs a technician."},
+  {"title": "Check the temperature setting", "text": "Someone may have turned the dial down. The U.S. Department of Energy suggests 120 degrees F for most households to save energy and reduce scalding risk."},
+  {"title": "Look for leaks", "text": "Check the base of the tank and the relief valve pipe. A tank leaking from the bottom usually needs replacement."}
+ ],
+ "safety": [
+  "If you smell gas, leave the house and call your gas utility from outside. Do not light anything or operate switches.",
+  "Never touch electrical terminals inside the access panels. Turn off the breaker and verify before removing panels.",
+  "A reset button that trips again means the heater is overheating; do not keep resetting it.",
+  "Do not cap or plug the temperature and pressure relief valve or its discharge pipe.",
+  "Water above 120 degrees F can scald quickly, especially for children and older adults."
+ ],
+ "call_pro": [
+  "The high-limit reset trips more than once, or the breaker trips again.",
+  "The gas pilot will not light or will not stay lit.",
+  "Any gas smell, scorch marks, or soot around the burner area.",
+  "The tank is leaking, or the relief valve keeps discharging.",
+  "Element, thermostat, thermocouple, gas valve or venting replacement. Codes in many areas require a licensed plumber and a permit for water heater replacement."
+ ],
+ "faq": [
+  {"q": "Where is the reset button on an electric water heater?", "a": "Behind the upper access panel, above the upper thermostat. Manufacturers call it the energy cut-off or high-limit switch, and it is usually red."},
+  {"q": "How long does a water heater take to heat after a reset?", "a": "A typical electric tank can take an hour or more to fully reheat. Gas units are usually faster."},
+  {"q": "Why do I get hot water for only a few minutes?", "a": "On an electric heater a failed lower element is common. Heavy sediment can also reduce capacity. Both are worth a service visit."},
+  {"q": "What temperature should a water heater be set to?", "a": "The U.S. Department of Energy recommends 120 degrees F for most homes."}
+ ],
+ "sources": [
+  {"name": "A. O. Smith: Water heater not working, common causes", "url": "https://www.hotwater.com/info-center/water-heater-not-working.html"},
+  {"name": "U.S. Department of Energy: Storage water heaters", "url": "https://www.energy.gov/energysaver/storage-or-tank-water-heaters"},
+  {"name": "U.S. Department of Energy: Water heating", "url": "https://www.energy.gov/energysaver/water-heating"}
+ ],
+ "related": ["reset-tripped-breaker", "clean-faucet-aerator", "shut-off-main-water"],
+ "published": "2026-11-09",
+ "updated": "2026-11-09"
+}

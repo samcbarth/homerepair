@@ -1,0 +1,54 @@
+{
+ "slug": "fix-leaky-faucet",
+ "title": "How to Fix a Leaky Faucet",
+ "category": "plumbing",
+ "meta": "Stop a dripping faucet: identify cartridge, compression or ball faucets, shut off the water, and replace the cartridge or washer step by step.",
+ "summary": "A dripping faucet usually has a worn cartridge, washer or O-ring. Shut off the water under the sink, remove the handle, pull the old cartridge or washer, and install an exact match from the faucet's manufacturer.",
+ "difficulty": "Easy to moderate",
+ "time": "30 to 90 minutes",
+ "howto_verb": "fix a leaky faucet",
+ "keywords": ["dripping faucet", "faucet cartridge", "Moen cartridge", "faucet washer", "leaky tap"],
+ "causes": "Water drips from the spout when the seal inside the valve wears out. Single-handle faucets mostly use a cartridge (Moen and many others) or a ceramic disc; older two-handle faucets often use compression stems with rubber washers. A leak around the base of the handle or spout usually points to a worn O-ring rather than the main seal.",
+ "warnings": [],
+ "tools": [
+  {"name": "Adjustable wrench", "q": "adjustable wrench set", "note": ""},
+  {"name": "Screwdriver set (Phillips and flat)", "q": "screwdriver set phillips flat", "note": ""},
+  {"name": "Hex key (Allen) set", "q": "hex key allen wrench set sae metric", "note": "Many handles use a small set screw"},
+  {"name": "Needle-nose pliers", "q": "needle nose pliers", "note": "For retaining clips"}
+ ],
+ "materials": [
+  {"name": "Replacement cartridge or washer kit for your faucet brand", "q": "faucet cartridge replacement", "note": "Take the old part to the store to match it"},
+  {"name": "Silicone faucet grease", "q": "silicone faucet grease plumbers", "note": "For O-rings"},
+  {"name": "Rag and a sink stopper", "q": "microfiber cleaning cloths", "note": "So small parts do not go down the drain"}
+ ],
+ "steps": [
+  {"title": "Find the brand and model", "text": "Look for a logo on the handle or spout. Moen, Delta and other brands publish cartridge guides by model, and using the genuine part keeps the warranty valid. Many faucets have lifetime warranties on cartridges, so check before you buy."},
+  {"title": "Shut off the water", "text": "Turn both supply valves under the sink clockwise until they stop. Open the faucet to drain the lines and release pressure. Close the drain and lay a rag in the sink."},
+  {"title": "Remove the handle", "text": "Pry off the decorative cap if there is one, remove the set screw or handle screw, and lift the handle off. Lay the parts out in order so you can reverse the steps."},
+  {"title": "Remove the cartridge or stem", "text": "Unscrew the retaining nut or remove the retaining clip, then pull the cartridge straight up by its stem. On compression faucets, unscrew the stem and remove the screw holding the rubber washer at the bottom."},
+  {"title": "Install the new part", "text": "Most cartridges only fit one way: line up the tabs or the hot and cold markings with the notches in the valve body. Coat new O-rings with silicone grease. On compression stems, install a new washer of the same size."},
+  {"title": "Reassemble and test", "text": "Reinstall the nut or clip, the handle and the cap. Open the supply valves slowly and run the faucet hot and cold. If hot and cold are reversed, rotate the cartridge stem 180 degrees."}
+ ],
+ "safety": [
+  "Turn off the water before you remove anything; supply lines are under pressure.",
+  "Do not force a stuck cartridge with a large wrench. Brands sell inexpensive cartridge puller tools that protect the valve body."
+ ],
+ "call_pro": [
+  "The valve body itself is cracked or corroded.",
+  "The shutoff valves under the sink do not close fully.",
+  "The faucet is a wall-mounted shower valve and you are not comfortable working with the main water off."
+ ],
+ "faq": [
+  {"q": "How much water does a dripping faucet waste?", "a": "EPA WaterSense estimates that a faucet leaking one drip per second can waste more than 3,000 gallons a year."},
+  {"q": "Why is my faucet still dripping after a new cartridge?", "a": "Common causes are a cartridge that is not fully seated, debris on the valve seat, or a non-matching part. Pull it, flush the valve body by briefly opening the supply with a rag over it, and reinstall."},
+  {"q": "Can I use a universal cartridge?", "a": "Use the exact cartridge listed for your model. Close matches can leak or swap hot and cold."}
+ ],
+ "sources": [
+  {"name": "Moen: 1225 cartridge replacement guide (single handle)", "url": "https://solutions.moen.com/Article_Library/1225_Cartridge:_Single_Handle_Bathroom_Faucets_(Prior_to_2009)"},
+  {"name": "Moen: 1224 cartridge replacement guide (two handle)", "url": "https://solutions.moen.com/Article_Library/1224_Cartridge:_Two_Handle_4%22_Centerset_Bathroom_Faucets"},
+  {"name": "EPA WaterSense: Fix a Leak Week", "url": "https://www.epa.gov/watersense/fix-leak-week"}
+ ],
+ "related": ["clean-faucet-aerator", "fix-leaking-p-trap", "fix-running-toilet"],
+ "published": "2026-11-09",
+ "updated": "2026-11-09"
+}

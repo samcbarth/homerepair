@@ -1,0 +1,56 @@
+{
+ "slug": "fix-running-toilet",
+ "title": "How to Fix a Running Toilet",
+ "category": "plumbing",
+ "meta": "Fix a running toilet in under an hour: find out if it is the flapper, chain, float or fill valve, with a dye test, tools list and step-by-step repair.",
+ "summary": "A toilet that keeps running is almost always leaking past a worn flapper or overfilling through the overflow tube. Do a food-coloring dye test, adjust the chain or float, and replace the flapper or fill valve if adjusting does not stop it.",
+ "difficulty": "Easy",
+ "time": "15 to 60 minutes",
+ "howto_verb": "fix a running toilet",
+ "keywords": ["toilet keeps running", "flapper", "fill valve", "phantom flush", "toilet tank"],
+ "causes": "Water keeps flowing for one of two reasons. Either water leaks from the tank into the bowl (usually a warped or dirty flapper, or a chain that is too short and holds the flapper open), or the tank overfills and spills down the overflow tube (the float is set too high or the fill valve is worn). Look inside the tank: if water is pouring into the overflow tube, it is the fill side. If the water level is below the overflow and the tank refills by itself every so often, it is the flapper.",
+ "warnings": [],
+ "tools": [
+  {"name": "Adjustable wrench or channel-lock pliers", "q": "adjustable wrench 8 inch", "note": "For the supply line nut if you replace the fill valve"},
+  {"name": "Sponge and small bucket", "q": "large cleaning sponge", "note": "To soak up water left in the tank"},
+  {"name": "Food coloring or toilet dye tablets", "q": "toilet leak detection dye tablets", "note": "For the leak test"}
+ ],
+ "materials": [
+  {"name": "Replacement flapper (2 inch or 3 inch, match your flush valve)", "q": "universal toilet flapper", "note": "Take the old one or a photo to match size"},
+  {"name": "Universal fill valve, if the fill side is the problem", "q": "universal toilet fill valve", "note": "Adjustable height models fit most tanks"}
+ ],
+ "steps": [
+  {"title": "Run the dye test", "text": "Take the tank lid off and add a few drops of food coloring or a dye tablet to the tank. Do not flush. Wait 10 minutes. If color shows up in the bowl, water is leaking past the flapper."},
+  {"title": "Check the water level", "text": "With the tank full, the water should sit about 1 inch below the top of the overflow tube (many tubes have a marked line). If water is spilling into the tube, the fill side is the problem."},
+  {"title": "Adjust the chain", "text": "The flapper chain needs a little slack, about 1/2 inch, when the flapper is closed. Too tight and the flapper cannot seal; too loose and it can tangle under the flapper. Move the clip one or two links."},
+  {"title": "Lower the float", "text": "On a modern float-cup fill valve, squeeze the clip on the side rod and slide the cup down, or turn the adjustment screw. On an older ball float, turn the screw on top of the valve or gently bend the float arm down. Flush and recheck the level."},
+  {"title": "Shut off the water and drain the tank", "text": "Turn the oval valve behind the toilet clockwise until it stops. Flush and hold the handle down to empty the tank, then sponge out what is left."},
+  {"title": "Replace the flapper", "text": "Unhook the old flapper's ears from the pegs on the overflow tube (or slide the ring off), unclip the chain, and wipe the flush valve seat clean with a sponge. Install the new flapper, attach the chain with slight slack, turn the water back on and flush a few times."},
+  {"title": "Replace the fill valve if it still runs", "text": "With the water off and tank drained, put a bucket under the tank, unscrew the supply line nut, then the large locknut under the tank. Lift out the old valve, set the new one to the height in its instructions, tighten the locknut hand tight plus a quarter turn, reconnect the supply, clip the refill tube to the overflow, and turn the water on slowly."},
+  {"title": "Test again", "text": "Repeat the dye test after the repair. No color in the bowl after 10 minutes means the leak is fixed."}
+ ],
+ "safety": [
+  "Do not overtighten plastic nuts or the tank bolts; porcelain cracks easily.",
+  "Use only cleaning products approved by the manufacturer in the tank. In-tank bleach tablets can wear out flappers faster.",
+  "If the shutoff valve will not turn or drips when moved, stop and use the main water shutoff instead."
+ ],
+ "call_pro": [
+  "The tank is cracked or water leaks onto the floor from the tank bolts or base.",
+  "The shutoff valve behind the toilet is seized or leaking.",
+  "You have replaced the flapper and fill valve and the toilet still runs."
+ ],
+ "faq": [
+  {"q": "How much water does a running toilet waste?", "a": "A lot more than most people expect. EPA WaterSense notes that household leaks are a major source of wasted water and recommends checking toilets at least once a year with a dye test."},
+  {"q": "How often should a toilet flapper be replaced?", "a": "EPA WaterSense suggests checking the flapper periodically and replacing it at least every five years so it keeps a tight seal."},
+  {"q": "Why does my toilet refill by itself every few minutes?", "a": "That is called a phantom flush. Water is slowly leaking past the flapper, the level drops, and the fill valve tops it up. Clean the flush valve seat or replace the flapper."},
+  {"q": "Is a 2 inch or 3 inch flapper right for my toilet?", "a": "Measure the opening of the drain hole at the bottom of the tank, or check the toilet brand and model inside the tank. Many newer toilets use 3 inch flush valves."}
+ ],
+ "sources": [
+  {"name": "EPA WaterSense: Fix a Leak Week", "url": "https://www.epa.gov/watersense/fix-leak-week"},
+  {"name": "EPA WaterSense: Home maintenance and leak checks", "url": "https://www.epa.gov/watersense/home-maintenance"},
+  {"name": "This Old House: How to clear any clogged drain (toilet section)", "url": "https://www.thisoldhouse.com/plumbing/21164644/how-to-clear-any-clogged-drain"}
+ ],
+ "related": ["unclog-toilet", "shut-off-main-water", "fix-leaky-faucet"],
+ "published": "2026-11-09",
+ "updated": "2026-11-09"
+}

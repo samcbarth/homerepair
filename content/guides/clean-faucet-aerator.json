@@ -1,0 +1,52 @@
+{
+ "slug": "clean-faucet-aerator",
+ "title": "How to Fix Low Water Pressure at a Faucet (Clean the Aerator)",
+ "category": "plumbing",
+ "meta": "Low water pressure at one faucet is usually a clogged aerator. Unscrew it, soak away mineral buildup in vinegar, or swap in a new WaterSense aerator.",
+ "summary": "If only one faucet has weak or sputtering flow, the aerator screen at the tip of the spout is probably clogged with sediment or mineral scale. Unscrew it, rinse and soak it in white vinegar, or replace it with a new aerator of the same size.",
+ "difficulty": "Easy",
+ "time": "10 to 30 minutes",
+ "howto_verb": "clean a faucet aerator",
+ "keywords": ["low water pressure faucet", "sputtering faucet", "aerator", "hard water buildup", "weak flow"],
+ "causes": "The aerator is a small screen and flow restrictor in the tip of the faucet. Sediment, rust flakes and hard-water minerals build up on it, especially after water main work or plumbing repairs. If every fixture in the house is weak, the problem is upstream (a partly closed main valve, a failing pressure regulator, or a utility issue) and an aerator will not fix it.",
+ "warnings": [],
+ "tools": [
+  {"name": "Channel-lock or slip-joint pliers", "q": "slip joint pliers", "note": "Wrap the jaws in tape to avoid scratching the finish"},
+  {"name": "Aerator key, for recessed (cache) aerators", "q": "faucet aerator key tool", "note": "Many newer faucets need one"},
+  {"name": "Old toothbrush", "q": "detail cleaning brush set", "note": ""}
+ ],
+ "materials": [
+  {"name": "White vinegar", "q": "cleaning vinegar gallon", "note": ""},
+  {"name": "Replacement WaterSense aerator (match thread size)", "q": "watersense faucet aerator", "note": "Bring the old one to match male or female thread"},
+  {"name": "Painter's tape or a rag", "q": "painters tape", "note": "To protect the faucet finish"}
+ ],
+ "steps": [
+  {"title": "Confirm it is one faucet", "text": "Run the other faucets and the shower. If only this one is weak on both hot and cold, the aerator is the prime suspect."},
+  {"title": "Close the drain", "text": "Close the sink stopper or lay a rag in the basin so the small screens and washers cannot fall down the drain."},
+  {"title": "Unscrew the aerator", "text": "Turn it counterclockwise (as you look down from above) by hand. If it is stuck, wrap it with tape and use pliers gently. For recessed aerators, use the matching aerator key."},
+  {"title": "Take it apart and clean it", "text": "Note the order of the screen, flow restrictor and rubber washer. Rinse out debris, scrub with a toothbrush, and soak the parts in white vinegar for 30 minutes to an hour to dissolve mineral scale."},
+  {"title": "Flush the faucet", "text": "With the aerator off, run water for a few seconds to flush out loose debris from the spout."},
+  {"title": "Reinstall or replace", "text": "Put the parts back in order, screw the aerator on hand tight, and test. If the screen is damaged or the scale will not come off, install a new aerator of the same thread size and flow rate."}
+ ],
+ "safety": [
+  "Do not over-tighten the aerator; the threads on the spout are soft brass or plastic.",
+  "If the faucet has a pull-down sprayer, check the sprayer head screen too."
+ ],
+ "call_pro": [
+  "The whole house has low pressure.",
+  "Pressure dropped suddenly along with a hissing sound or a wet spot, which can mean a hidden leak.",
+  "Only the hot side is weak at every faucet, which can point to a water heater shutoff or sediment problem."
+ ],
+ "faq": [
+  {"q": "Will a new aerator lower my water pressure?", "a": "A WaterSense labeled aerator uses less water but is designed to still perform well. EPA WaterSense says swapping aerators for labeled models can save a household up to 700 gallons a year."},
+  {"q": "How often should I clean aerators?", "a": "Every few months in hard-water areas, and any time flow drops or water sputters after plumbing work."},
+  {"q": "Why is only the hot water weak?", "a": "At one faucet it can be a clogged cartridge on the hot side. At every faucet it can be the water heater's supply valve or sediment in the tank."}
+ ],
+ "sources": [
+  {"name": "EPA WaterSense: Fix a Leak Week (aerator savings)", "url": "https://www.epa.gov/watersense/fix-leak-week"},
+  {"name": "EPA WaterSense: Home maintenance", "url": "https://www.epa.gov/watersense/home-maintenance"}
+ ],
+ "related": ["fix-leaky-faucet", "water-heater-not-hot", "shut-off-main-water"],
+ "published": "2026-11-09",
+ "updated": "2026-11-09"
+}

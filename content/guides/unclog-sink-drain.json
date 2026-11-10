@@ -1,0 +1,53 @@
+{
+ "slug": "unclog-sink-drain",
+ "title": "How to Unclog a Sink Drain Without Chemicals",
+ "category": "plumbing",
+ "meta": "Unclog a bathroom or kitchen sink drain with a plunger, by cleaning the pop-up stopper, the P-trap, or a hand drain snake. No harsh chemicals needed.",
+ "summary": "Start by pulling and cleaning the stopper, then plunge with the overflow blocked. If that fails, clean the P-trap under the sink or run a hand drain snake. Skip chemical drain cleaners; they rarely clear a full clog.",
+ "difficulty": "Easy",
+ "time": "15 to 45 minutes",
+ "howto_verb": "unclog a sink drain",
+ "keywords": ["clogged sink", "slow drain", "bathroom sink clog", "kitchen sink clog", "drain snake", "hair clog", "shower drain"],
+ "causes": "Bathroom sinks clog with hair and soap scum that wrap around the pop-up stopper. Kitchen sinks clog with grease, food scraps and coffee grounds. Most clogs sit within a couple of feet of the drain: at the stopper, in the P-trap, or just past it in the wall pipe. The same steps work for a slow shower or tub drain.",
+ "warnings": [],
+ "tools": [
+  {"name": "Cup plunger (flat bottom, for sinks)", "q": "sink cup plunger", "note": "Keep it separate from the toilet plunger"},
+  {"name": "Hand drain snake (1/4 inch, 15 to 25 feet)", "q": "hand drain snake auger 25 ft", "note": ""},
+  {"name": "Plastic drain hair-clog tool", "q": "drain hair clog removal tool", "note": "Cheap barbed strip for bathroom sinks"},
+  {"name": "Bucket and channel-lock pliers", "q": "tongue and groove pliers 10 inch", "note": "For the P-trap nuts"}
+ ],
+ "materials": [
+  {"name": "Rubber gloves", "q": "rubber cleaning gloves", "note": ""},
+  {"name": "Old towel or rag", "q": "shop towels", "note": "To block the overflow hole"}
+ ],
+ "steps": [
+  {"title": "Pull and clean the stopper", "text": "Most bathroom stoppers lift straight out or come out after you loosen the pivot rod nut behind the drain pipe under the sink. Clean off the hair and gunk, and fish out more with a plastic hair-clog tool."},
+  {"title": "Plunge with the overflow blocked", "text": "Put a few inches of water in the sink. Stuff a wet rag into the overflow hole (or have a helper cover the other basin of a double sink) so the pressure goes down the drain. Seal the cup over the drain and pump firmly 10 to 15 times."},
+  {"title": "Clean the P-trap", "text": "Put a bucket under the U-shaped trap. Loosen the two slip nuts by hand or with pliers, drop the trap, and clean it out. Check the short arm going into the wall too. Reinstall with the washers seated and nuts hand tight plus a little."},
+  {"title": "Run a hand snake", "text": "With the trap off, feed the snake cable into the wall pipe. When you feel resistance, tighten the lock and crank clockwise while pushing gently. Pull back often to remove debris. Reinstall the trap."},
+  {"title": "Flush and check for leaks", "text": "Run hot water for a minute (warm, not boiling, for PVC pipe). Check the trap nuts with a dry paper towel for drips."}
+ ],
+ "safety": [
+  "Do not use chemical drain cleaner and then plunge or open the trap; the chemical can splash on skin and eyes.",
+  "If chemical cleaner is already in the drain, tell anyone who helps and wear gloves and eye protection.",
+  "Never mix drain products."
+ ],
+ "call_pro": [
+  "Several fixtures are slow or gurgling at once; that points to a main drain or vent problem.",
+  "Water backs up into a tub or floor drain when you run the sink.",
+  "The clog is beyond the reach of a 25 foot hand snake."
+ ],
+ "faq": [
+  {"q": "Do chemical drain cleaners work?", "a": "This Old House's plumbing expert notes that chemicals rarely clear a full stoppage; they tend to open a small hole that still needs mechanical clearing. A plunger, trap cleaning or a snake is safer for you and the pipes."},
+  {"q": "Can I use the same plunger for the sink and toilet?", "a": "It is better not to. Use a flat cup plunger for sinks and a flange plunger for toilets, and clean them after use."},
+  {"q": "How do I prevent sink clogs?", "a": "Use a drain screen, keep grease and coffee grounds out of the kitchen sink, and clean the bathroom stopper every few months."}
+ ],
+ "sources": [
+  {"name": "This Old House: How to unclog a bathroom sink", "url": "https://www.thisoldhouse.com/bathrooms/how-to-unclog-a-sink"},
+  {"name": "This Old House: How to clear any clogged drain", "url": "https://www.thisoldhouse.com/plumbing/21164644/how-to-clear-any-clogged-drain"},
+  {"name": "Family Handyman: How to clean and unclog a kitchen sink drain", "url": "https://www.familyhandyman.com/project/how-to-clear-clogged-sink-drains/"}
+ ],
+ "related": ["fix-leaking-p-trap", "unclog-toilet", "fix-garbage-disposal-jam"],
+ "published": "2026-11-09",
+ "updated": "2026-11-09"
+}
