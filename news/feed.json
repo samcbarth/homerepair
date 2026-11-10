@@ -1,0 +1,113 @@
+{
+ "version": "https://jsonfeed.org/version/1.1",
+ "title": "Fix It Notes Bulletin",
+ "home_page_url": "https://homerepair.samcbarth.com/news/",
+ "feed_url": "https://homerepair.samcbarth.com/news/feed.json",
+ "description": "Home repair news: recalls, rebates and safety alerts from Fix It Notes",
+ "language": "en-US",
+ "authors": [
+  {
+   "name": "Sam Barth"
+  }
+ ],
+ "icon": "https://homerepair.samcbarth.com/assets/og/news.png",
+ "items": [
+  {
+   "id": "https://homerepair.samcbarth.com/news/little-giant-ladder-rapid-lock-recall/",
+   "url": "https://homerepair.samcbarth.com/news/little-giant-ladder-rapid-lock-recall/",
+   "title": "Little Giant recalls about 3.66 million ladders with Rapid Locks over fall hazard",
+   "summary": "The CPSC and Little Giant announced a recall of about 3.66 million ladders with Rapid Locks because they can suddenly retract if the locks are not fully engaged. Owners should stop using them and contact Little Giant for a repair kit.",
+   "content_text": "The CPSC and Little Giant announced a recall of about 3.66 million ladders with Rapid Locks because they can suddenly retract if the locks are not fully engaged. Owners should stop using them and contact Little Giant for a repair kit.",
+   "date_published": "2026-11-05T12:00:00-06:00",
+   "image": "https://homerepair.samcbarth.com/assets/og/news.png",
+   "tags": [
+    "Recall",
+    "Ladders"
+   ],
+   "external_url": "https://www.cpsc.gov/Recalls/2027/Little-Giant-Recalls-Ladders-with-Rapid-Locks-Due-to-Risk-of-Serious-Injury-from-Fall-Hazard"
+  },
+  {
+   "id": "https://homerepair.samcbarth.com/news/cpsc-warns-smoke-co-alarms-fail-to-alert/",
+   "url": "https://homerepair.samcbarth.com/news/cpsc-warns-smoke-co-alarms-fail-to-alert/",
+   "title": "CPSC warns two sets of combination smoke and CO alarms sold online fail to alarm",
+   "summary": "The CPSC told consumers to stop using JuzhiAnn, Yfwsrecinoe and JAEHSKA alarms (model JZA-540COM) and GuardianSense/KLTseanife alarms (model YHW-542COM-R) because they fail to sound in the presence of smoke and fire. The sellers have not agreed to recalls.",
+   "content_text": "The CPSC told consumers to stop using JuzhiAnn, Yfwsrecinoe and JAEHSKA alarms (model JZA-540COM) and GuardianSense/KLTseanife alarms (model YHW-542COM-R) because they fail to sound in the presence of smoke and fire. The sellers have not agreed to recalls.",
+   "date_published": "2026-10-29T12:00:00-06:00",
+   "image": "https://homerepair.samcbarth.com/assets/og/news.png",
+   "tags": [
+    "Safety warning",
+    "Smoke alarms"
+   ],
+   "external_url": "https://www.cpsc.gov/Warnings/2027/CPSC-Warns-Consumers-to-Stop-Using-Yfwsrecinoe-Smoke-and-Carbon-Monoxide-Detectors-Immediately-Due-to-Risk-of-Serious-Injury-or-Death-from-Fire-Hazard"
+  },
+  {
+   "id": "https://homerepair.samcbarth.com/news/dreo-space-heater-recall-dr-hsh015/",
+   "url": "https://homerepair.samcbarth.com/news/dreo-space-heater-recall-dr-hsh015/",
+   "title": "DREO recalls about 338,800 DR-HSH015 ceramic space heaters for fire risk",
+   "summary": "DREO recalled about 338,800 DR-HSH015 ceramic space heaters made from April 2025 through January 2026 because they can overheat and ignite. Stop using them and contact DREO for a free replacement.",
+   "content_text": "DREO recalled about 338,800 DR-HSH015 ceramic space heaters made from April 2025 through January 2026 because they can overheat and ignite. Stop using them and contact DREO for a free replacement.",
+   "date_published": "2026-10-29T12:00:00-06:00",
+   "image": "https://homerepair.samcbarth.com/assets/og/news.png",
+   "tags": [
+    "Recall",
+    "Heating"
+   ],
+   "external_url": "https://www.cpsc.gov/Recalls/2027/DREO-Recalls-DR-HSH015-Space-Heaters-Due-to-Fire-and-Burn-Hazards"
+  },
+  {
+   "id": "https://homerepair.samcbarth.com/news/cpsc-warns-powryte-pressure-washers-shock/",
+   "url": "https://homerepair.samcbarth.com/news/cpsc-warns-powryte-pressure-washers-shock/",
+   "title": "CPSC warns PowRyte electric pressure washers lack GFCI protection at the plug",
+   "summary": "The CPSC warned consumers to stop using PowRyte pressure washers sold on Amazon and eBay because they lack a ground-fault circuit interrupter on or near the plug, creating a shock and electrocution risk. The manufacturer has not agreed to a recall.",
+   "content_text": "The CPSC warned consumers to stop using PowRyte pressure washers sold on Amazon and eBay because they lack a ground-fault circuit interrupter on or near the plug, creating a shock and electrocution risk. The manufacturer has not agreed to a recall.",
+   "date_published": "2026-10-22T12:00:00-06:00",
+   "image": "https://homerepair.samcbarth.com/assets/og/news.png",
+   "tags": [
+    "Safety warning",
+    "Outdoor tools"
+   ],
+   "external_url": "https://www.cpsc.gov/Warnings/2027/CPSC-Warns-Consumers-to-Stop-Using-PowRyte-Pressure-Washers-Immediately-Due-to-Serious-Shock-and-Electrocution-Hazards-Risk-of-Serious-Injury-or-Death"
+  },
+  {
+   "id": "https://homerepair.samcbarth.com/news/louisville-attic-ladder-recall-spreader-bolts/",
+   "url": "https://homerepair.samcbarth.com/news/louisville-attic-ladder-recall-spreader-bolts/",
+   "title": "Over one million attic stairway ladders recalled over breaking bolts",
+   "summary": "Louisville Ladder recalled more than one million Louisville, Featherlite, Lite and Century attic stairway ladders with gas struts because bolts can break. Owners can register for a free repair kit with replacement spreader bolts.",
+   "content_text": "Louisville Ladder recalled more than one million Louisville, Featherlite, Lite and Century attic stairway ladders with gas struts because bolts can break. Owners can register for a free repair kit with replacement spreader bolts.",
+   "date_published": "2026-08-06T12:00:00-06:00",
+   "image": "https://homerepair.samcbarth.com/assets/og/news.png",
+   "tags": [
+    "Recall",
+    "Ladders"
+   ],
+   "external_url": "https://www.cpsc.gov/Recalls/2026/Louisville-Ladder-Recalls-Over-One-Million-Attic-Stairway-Ladders-Due-to-Risk-of-Serious-Injury-or-Death-from-Fall-Hazard"
+  },
+  {
+   "id": "https://homerepair.samcbarth.com/news/new-hampshire-hear-rebates-fall-2026/",
+   "url": "https://homerepair.samcbarth.com/news/new-hampshire-hear-rebates-fall-2026/",
+   "title": "New Hampshire's home electrification rebates expected to launch in fall 2026",
+   "summary": "New Hampshire's Department of Energy says its HEAR program, with rebates of up to $14,000 for heat pumps, heat pump water heaters, wiring and insulation, is expected to launch in fall 2026. Only projects started after launch will qualify.",
+   "content_text": "New Hampshire's Department of Energy says its HEAR program, with rebates of up to $14,000 for heat pumps, heat pump water heaters, wiring and insulation, is expected to launch in fall 2026. Only projects started after launch will qualify.",
+   "date_published": "2026-07-29T12:00:00-06:00",
+   "image": "https://homerepair.samcbarth.com/assets/og/news.png",
+   "tags": [
+    "Energy rebates"
+   ],
+   "external_url": "https://www.energy.nh.gov/funding-opportunities/funding-opportunities-homeowners/home-electrification-and-appliance-rebates"
+  },
+  {
+   "id": "https://homerepair.samcbarth.com/news/harvard-lira-remodeling-growth-slows-2026/",
+   "url": "https://homerepair.samcbarth.com/news/harvard-lira-remodeling-growth-slows-2026/",
+   "title": "Harvard housing researchers project home improvement spending growth slowing through 2026",
+   "summary": "The Leading Indicator of Remodeling Activity from Harvard's Joint Center for Housing Studies projects owner spending on improvements and maintenance growing about 2.1 percent by mid-2026 and easing to 1.6 percent by year end, reaching about $518 billion.",
+   "content_text": "The Leading Indicator of Remodeling Activity from Harvard's Joint Center for Housing Studies projects owner spending on improvements and maintenance growing about 2.1 percent by mid-2026 and easing to 1.6 percent by year end, reaching about $518 billion.",
+   "date_published": "2026-04-15T12:00:00-06:00",
+   "image": "https://homerepair.samcbarth.com/assets/og/news.png",
+   "tags": [
+    "Industry",
+    "Remodeling"
+   ],
+   "external_url": "https://www.jchs.harvard.edu/press-releases/remodeling-growth-set-downshift-late-2026"
+  }
+ ]
+}

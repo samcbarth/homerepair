@@ -1,0 +1,17 @@
+{
+ "slug": "cpsc-warns-powryte-pressure-washers-shock",
+ "date": "2026-10-22",
+ "tags": ["Safety warning", "Outdoor tools"],
+ "title": "CPSC warns PowRyte electric pressure washers lack GFCI protection at the plug",
+ "summary": "The CPSC warned consumers to stop using PowRyte pressure washers sold on Amazon and eBay because they lack a ground-fault circuit interrupter on or near the plug, creating a shock and electrocution risk. The manufacturer has not agreed to a recall.",
+ "body": [
+  "On October 22, 2026, the CPSC issued a warning about PowRyte electric pressure washers. The agency says the units lack an immersion protection device, also called a ground-fault circuit interrupter (GFCI), on or near the power plug.",
+  "The pressure washers were sold on Amazon.com and eBay.com for roughly $92 to $320. The CPSC lists the manufacturer as Powell Works, Inc. of China and says the firm has not responded to its requests for a recall.",
+  "The CPSC advises owners to stop using the pressure washers, cut the power cord, and dispose of them, and not to sell or give them away. Incidents can be reported at SaferProducts.gov."
+ ],
+ "why": "Water and electricity together are exactly what GFCI protection exists for. Plug outdoor electric tools into a GFCI-protected outlet, test that outlet monthly, and see our <a href=\"/guides/reset-tripped-gfci/\">GFCI guide</a> for how to test and reset one.",
+ "source_name": "CPSC",
+ "source_url": "https://www.cpsc.gov/Warnings/2027/CPSC-Warns-Consumers-to-Stop-Using-PowRyte-Pressure-Washers-Immediately-Due-to-Serious-Shock-and-Electrocution-Hazards-Risk-of-Serious-Injury-or-Death",
+ "image": "/assets/og/news.png",
+ "related": ["reset-tripped-gfci", "clean-gutters"]
+}

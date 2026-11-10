@@ -26,7 +26,7 @@
   {"title": "Find the leaks", "text": "On a bright day, close the door and look for daylight around the edges. Or close the door on a sheet of paper at several points; if it slides out with no drag, the seal there is not contacting."},
   {"title": "Identify the type", "text": "Many modern doors use kerf-in seals pressed into a slot in the jamb. Older or simpler doors use adhesive foam, V-strip or nailed felt."},
   {"title": "Remove the old seal", "text": "Pull kerf seals straight out of the slot. Scrape off adhesive strips and clean the surface with rubbing alcohol."},
-  {"title": "Install the new weatherstripping", "text": "Cut pieces to length for the hinge side, top and latch side. Press kerf seals into the slot starting at a corner, or apply adhesive strips to a clean, dry surface. The U.S. Department of Energy notes weatherstripping should seal well when the door is closed while still letting it operate freely."},
+  {"title": "Install the new weatherstripping", "text": "Cut pieces to length for the hinge side, top and latch side. Press kerf seals into the slot starting at a corner, or apply adhesive strips to a clean, dry surface. The seal should compress when the door closes but still let the door open and latch freely."},
   {"title": "Seal the bottom", "text": "Replace the sweep or the threshold insert. Screw-on sweeps have slotted holes: set the sweep so it lightly touches the threshold when closed, then tighten."},
   {"title": "Test", "text": "The door should latch with slight resistance. If it is hard to close, the seal is too thick."}
  ],
@@ -42,11 +42,11 @@
  "faq": [
   {"q": "Which weatherstripping lasts longest?", "a": "Durability varies by material. Kerf-in and vinyl or silicone bulb seals generally outlast adhesive foam, which is cheap and easy but wears faster."},
   {"q": "How do I know if the door sweep is right?", "a": "It should brush the threshold lightly when the door is closed. Too tight and the door drags; too loose and air gets under."},
-  {"q": "Does weatherstripping really save energy?", "a": "The U.S. Department of Energy recommends caulking and weatherstripping as air sealing steps that can cut heating and cooling loss."}
+  {"q": "Does weatherstripping really save energy?", "a": "The U.S. Department of Energy's Energy Saver guide lists caulking, sealing and weatherstripping openings to the outside among the quickest ways to cut heating and cooling costs."}
  ],
  "sources": [
-  {"name": "U.S. Department of Energy: Weatherstripping", "url": "https://www.energy.gov/energysaver/weatherstripping"},
-  {"name": "U.S. Department of Energy: Air sealing your home", "url": "https://www.energy.gov/energysaver/air-sealing-your-home"}
+  {"name": "U.S. Department of Energy: Energy Saver Guide (PDF)", "url": "https://www.energy.gov/sites/default/files/2022-08/energy-saver-guide-2022.pdf"},
+  {"name": "U.S. Department of Energy: Home energy checklist", "url": "https://www.energy.gov/cmei/femp/home-energy-checklist"}
  ],
  "related": ["fix-door-wont-latch", "fix-sticking-door", "caulk-a-bathtub"],
  "published": "2026-11-09",

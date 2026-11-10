@@ -48,8 +48,8 @@
  ],
  "sources": [
   {"name": "A. O. Smith: Water heater not working, common causes", "url": "https://www.hotwater.com/info-center/water-heater-not-working.html"},
-  {"name": "U.S. Department of Energy: Storage water heaters", "url": "https://www.energy.gov/energysaver/storage-or-tank-water-heaters"},
-  {"name": "U.S. Department of Energy: Water heating", "url": "https://www.energy.gov/energysaver/water-heating"}
+  {"name": "U.S. Department of Energy: Energy Saver Guide (PDF)", "url": "https://www.energy.gov/sites/default/files/2022-08/energy-saver-guide-2022.pdf"},
+  {"name": "U.S. Department of Energy: Home energy checklist", "url": "https://www.energy.gov/cmei/femp/home-energy-checklist"}
  ],
  "related": ["reset-tripped-breaker", "clean-faucet-aerator", "shut-off-main-water"],
  "published": "2026-11-09",

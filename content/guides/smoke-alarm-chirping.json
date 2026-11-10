@@ -24,13 +24,13 @@
   {"title": "Replace the battery", "text": "Open the battery drawer, install a fresh battery of the listed type, and close the drawer fully. On hardwired alarms, the backup battery is behind a door or on the side; the alarm can stay connected."},
   {"title": "Reset and test", "text": "Reinstall the alarm, press and hold TEST until it sounds. Some models need the test button held for several seconds after a battery change to clear the warning."},
   {"title": "Clean it", "text": "Gently vacuum the vents. Dust can cause false alarms and chirps."},
-  {"title": "Replace if it still chirps", "text": "If the chirp continues with a fresh battery, or it is a sealed 10-year alarm giving an end-of-life signal, replace the alarm. For hardwired alarms, turn off the breaker before unplugging the wiring harness, and use a replacement with a matching connector or follow its instructions."}
+  {"title": "Replace if it still chirps", "text": "If the chirp continues with a fresh battery, or it is a sealed 10-year alarm giving an end-of-life signal, replace the alarm. For hardwired alarms, turn off the breaker before unplugging the wiring connector, and use a replacement with a matching connector or follow its instructions."}
  ],
  "safety": [
   "Do not remove a battery to silence a chirp and leave the alarm empty. Replace it the same day.",
   "Never paint over a smoke alarm.",
   "If the alarm is sounding a full alarm, treat it as a real fire until you are sure it is not.",
-  "Hardwired alarm replacement involves household wiring; turn off the breaker first. If the wiring is not a simple plug-in harness, call an electrician."
+  "Hardwired alarm replacement involves household wiring; turn off the breaker first. If the wiring is not a simple plug-in connector, call an electrician."
  ],
  "call_pro": [
   "You are adding new hardwired or interconnected alarms.",

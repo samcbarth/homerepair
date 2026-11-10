@@ -1,0 +1,46 @@
+{
+ "title": "Basic Home Toolkit: The Tools That Handle Most Repairs",
+ "meta": "The basic home toolkit for DIY repairs: the screwdrivers, pliers, testers, plungers and drywall tools that the most common home fixes actually call for, and what to look for.",
+ "summary": "A drill/driver, a screwdriver set, adjustable wrench, tongue-and-groove pliers, a tape measure, a utility knife, a non-contact voltage tester, a flange plunger, putty knives, a level, a stepladder and a flashlight cover most of the repairs on this site. Buy those first and add specialty tools as jobs come up.",
+ "published": "2026-11-09",
+ "updated": "2026-11-09",
+ "sections": [
+  {"title": "Core hand tools", "intro": "These show up in almost every guide.", "items": [
+   {"name": "Cordless drill/driver", "q": "cordless drill driver kit 20v", "why": "Drives screws for drywall patches, hinges and strike plates, and drills pilot holes.", "look_for": "A compact 12V or 18/20V model with two batteries and an adjustable clutch so you do not strip screws.", "used_in": ["patch-large-drywall-hole", "fix-drywall-nail-pops", "fix-sticking-door"]},
+   {"name": "Screwdriver set (Phillips and flat, several sizes)", "q": "screwdriver set phillips flat", "why": "Cover plates, handles, hinges and appliance panels.", "look_for": "Magnetic tips and comfortable handles. A multi-bit driver is a good space saver.", "used_in": ["fix-leaky-faucet", "replace-light-switch", "fix-door-wont-latch"]},
+   {"name": "Adjustable wrench (8 and 10 inch)", "q": "adjustable wrench set", "why": "Supply line nuts, toilet fill valves and faucet parts.", "look_for": "Smooth jaw adjustment with little play.", "used_in": ["fix-running-toilet", "fix-leaky-outdoor-faucet", "fix-leaking-p-trap"]},
+   {"name": "Tongue-and-groove pliers", "q": "tongue and groove pliers 10 inch", "why": "Grip P-trap slip nuts, aerators and large fittings.", "look_for": "A 10 inch pair handles most household plumbing.", "used_in": ["fix-leaking-p-trap", "unclog-sink-drain", "clean-faucet-aerator"]},
+   {"name": "Needle-nose pliers", "q": "needle nose pliers", "why": "Small clips, wire loops and fishing out debris.", "look_for": "A built-in wire cutter.", "used_in": ["replace-light-switch", "fix-leaky-faucet"]},
+   {"name": "Utility knife", "q": "utility knife retractable", "why": "Cutting old caulk, trimming drywall and screen mesh.", "look_for": "Retractable blade with easy blade changes. Keep spare blades.", "used_in": ["caulk-a-bathtub", "replace-window-screen", "patch-large-drywall-hole"]},
+   {"name": "Tape measure (25 foot)", "q": "tape measure 25 ft", "why": "Measuring for patches, flooring, screens and weatherstripping.", "look_for": "A wide, stiff blade that extends without bending.", "used_in": ["weatherstrip-door", "replace-window-screen"]},
+   {"name": "Hex key (Allen) set", "q": "hex key set sae metric", "why": "Faucet handle set screws and freeing a jammed garbage disposal (1/4 inch).", "look_for": "Both SAE and metric sizes.", "used_in": ["fix-garbage-disposal-jam", "fix-leaky-faucet"]}
+  ]},
+  {"title": "Safety and testing", "intro": "Cheap tools that prevent expensive mistakes.", "items": [
+   {"name": "Non-contact voltage tester", "q": "non contact voltage tester", "why": "Confirms power is off before you touch a switch, outlet or appliance wiring.", "look_for": "Audible and visual alerts. Test it on a known live outlet every time before use.", "used_in": ["replace-light-switch", "replace-outlet", "water-heater-not-hot"]},
+   {"name": "Plug-in outlet tester with GFCI button", "q": "gfci outlet tester", "why": "Checks outlet wiring and trips GFCIs for testing.", "look_for": "A clear light code chart on the body.", "used_in": ["reset-tripped-gfci", "replace-outlet"]},
+   {"name": "Safety glasses, work gloves and dust masks", "q": "safety glasses work gloves dust mask kit", "why": "Scraping, sanding, grout removal and gutter work.", "look_for": "Glasses rated ANSI Z87.1 and masks sized for fine dust.", "used_in": ["regrout-tile", "clean-gutters", "patch-small-drywall-hole"]},
+   {"name": "Flashlight or headlamp", "q": "led headlamp rechargeable", "why": "Under sinks, inside walls, at the breaker panel.", "look_for": "A headlamp keeps both hands free.", "used_in": ["reset-tripped-breaker", "shut-off-main-water", "fix-garbage-disposal-jam"]}
+  ]},
+  {"title": "Plumbing basics", "intro": "For the most common household emergencies.", "items": [
+   {"name": "Flange (toilet) plunger", "q": "toilet flange plunger", "why": "Clears most toilet clogs.", "look_for": "A fold-out flange that seals the toilet drain opening.", "used_in": ["unclog-toilet"]},
+   {"name": "Cup (sink) plunger", "q": "sink cup plunger", "why": "Sinks, tubs and showers.", "look_for": "A flat-bottom cup. Keep it separate from the toilet plunger.", "used_in": ["unclog-sink-drain"]},
+   {"name": "Hand drain snake, 25 foot", "q": "hand drain auger 25 ft", "why": "Clogs past the P-trap.", "look_for": "A 1/4 inch cable with a lockable drum.", "used_in": ["unclog-sink-drain"]},
+   {"name": "Closet (toilet) auger", "q": "toilet closet auger", "why": "Stubborn toilet clogs, without scratching porcelain.", "look_for": "A rubber sleeve at the bend.", "used_in": ["unclog-toilet"]}
+  ]},
+  {"title": "Walls and finishing", "intro": "For holes, caulk and touch-ups.", "items": [
+   {"name": "Putty and taping knives (1 1/2, 6 and 10 inch)", "q": "drywall taping knife set", "why": "Spreading and feathering joint compound.", "look_for": "Flexible stainless blades.", "used_in": ["patch-small-drywall-hole", "patch-large-drywall-hole", "fix-drywall-nail-pops"]},
+   {"name": "Dripless caulk gun", "q": "dripless caulk gun", "why": "Tubs, sinks, trim and exterior gaps.", "look_for": "A smooth trigger and a pressure release so caulk does not keep oozing.", "used_in": ["caulk-a-bathtub", "regrout-tile"]},
+   {"name": "Sanding sponges", "q": "drywall sanding sponge pack", "why": "Smoothing patches with less dust than sandpaper.", "look_for": "Fine and medium grits.", "used_in": ["patch-small-drywall-hole", "fix-drywall-nail-pops"]},
+   {"name": "Torpedo or 24 inch level", "q": "24 inch level", "why": "Hanging things straight and checking doors and frames.", "look_for": "Easy-to-read vials.", "used_in": ["fix-sticking-door"]}
+  ]},
+  {"title": "Access", "intro": "Most repairs need you a few feet off the floor.", "items": [
+   {"name": "Step ladder (4 to 6 foot)", "q": "fiberglass step ladder 6 ft", "why": "Smoke alarms, light fixtures, high shelves.", "look_for": "A duty rating above your weight plus tools. Fiberglass for any electrical work.", "used_in": ["smoke-alarm-chirping", "fix-drywall-nail-pops"]},
+   {"name": "Extension ladder with stabilizer", "q": "extension ladder stabilizer", "why": "Gutters and one-story roof edges.", "look_for": "Right length to extend 3 feet past the gutter, and a standoff stabilizer.", "used_in": ["clean-gutters"]}
+  ]}
+ ],
+ "faq": [
+  {"q": "What tools should every homeowner have?", "a": "A drill/driver, screwdrivers, adjustable wrench, pliers, utility knife, tape measure, voltage tester, plungers, putty knives, a stepladder and a flashlight cover the most common repairs."},
+  {"q": "Should I buy a tool kit or individual tools?", "a": "Pre-made kits are convenient but often include low-quality filler. Buying the core tools one at a time usually gets better quality where it matters."},
+  {"q": "Do I need a voltage tester if I turn off the breaker?", "a": "Yes. Breaker labels are often wrong and boxes can contain more than one circuit. Always verify at the device."}
+ ]
+}
