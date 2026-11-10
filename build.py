@@ -129,7 +129,7 @@ def page(path, title, desc, body, crumbs=None, ld=None, og_type="website", og_im
         (f'<span class="net-cur" aria-current="true">{esc(label)}</span>' if sub == "homerepair"
          else f'<a href="https://{sub}.samcbarth.com/">{esc(label)}</a>')
         for sub, label in NETWORK)
-    full_title = title if title.endswith(SITE) else f"{title} | {SITE}"
+    full_title = title if SITE in title else f"{title} | {SITE}"
     doc = f'''<!doctype html>
 <html lang="en">
 <head>
