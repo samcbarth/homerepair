@@ -5,7 +5,7 @@ window.SITE_CONFIG = {
  "BASE_URL": "https://homerepair.samcbarth.com",
  "NEWS_BRAND": "Fix It Notes Bulletin",
  "AUTHOR": "Sam Barth",
- "GTM_ID": "GTM-KMS4X55L",
+ "GTM_ID": "G-9RYWZTGE5E",
  "ADSENSE_CLIENT": "",
  "AMAZON_TAG": "",
  "HUBSPOT_PORTAL": "20693956",

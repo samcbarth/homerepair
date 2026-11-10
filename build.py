@@ -70,11 +70,12 @@ def amazon_btn(q, label="Check price on Amazon"):
 DISCLOSURE = ('<p class="disclosure">Some links below are affiliate links. If you buy through them we may earn a '
               'commission at no extra cost to you. <a href="/affiliate-disclosure/">How this works</a>.</p>')
 
-GTM = f'''<script async src="https://www.googletagmanager.com/gtm.js?id={CFG["GTM_ID"]}"></script>
+GTM = f'''<script async src="https://www.googletagmanager.com/gtag/js?id={CFG["GTM_ID"]}"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){{dataLayer.push(arguments);}}
   gtag('js', new Date());
+  gtag('config', '{CFG["GTM_ID"]}');
 </script>'''
 
 ICONS = {
