@@ -1,0 +1,57 @@
+{
+ "slug": "caulk-a-bathtub",
+ "title": "How to Recaulk a Bathtub or Shower",
+ "category": "walls",
+ "meta": "Recaulk a tub or shower so it lasts: remove every bit of old caulk, kill mildew, dry the joint, tape, run a bead of kitchen and bath silicone, and let it cure.",
+ "summary": "Remove all the old caulk, clean off residue and mildew, let the joint dry completely, then tape both sides, run a bead of kitchen and bath caulk, smooth it, pull the tape while wet, and let it cure for about 24 hours before using the tub.",
+ "difficulty": "Easy",
+ "time": "1 to 2 hours, plus 24 hours to cure",
+ "howto_verb": "recaulk a bathtub",
+ "keywords": ["moldy caulk", "tub caulk", "shower caulk", "silicone caulk", "caulk peeling"],
+ "causes": "Caulk at the tub-to-wall joint seals out water that would otherwise get behind the tile and rot the wall. It fails from age, movement, mildew and poor adhesion. New caulk will not stick to old caulk, especially silicone, so removal is most of the job.",
+ "warnings": [],
+ "tools": [
+  {"name": "Caulk removal tool or plastic razor scraper", "q": "caulk removal tool kit", "note": "Use plastic on acrylic or fiberglass tubs"},
+  {"name": "Utility knife", "q": "utility knife", "note": ""},
+  {"name": "Dripless caulk gun", "q": "dripless caulk gun", "note": ""},
+  {"name": "Painter's tape", "q": "painters tape 1 inch", "note": ""}
+ ],
+ "materials": [
+  {"name": "100% silicone kitchen and bath caulk with mildew resistance", "q": "kitchen and bath silicone caulk white", "note": ""},
+  {"name": "Silicone caulk remover", "q": "silicone caulk remover gel", "note": ""},
+  {"name": "Mineral spirits or rubbing alcohol", "q": "isopropyl alcohol 91", "note": "Check the caulk label for the recommended cleaner"},
+  {"name": "Mildew cleaner", "q": "mold and mildew remover bathroom", "note": ""}
+ ],
+ "steps": [
+  {"title": "Cut out the old caulk", "text": "Slice along both edges of the bead with a utility knife, then pull and scrape it out. On plastic or acrylic tubs, use a plastic blade so you do not scratch the surface."},
+  {"title": "Remove the residue", "text": "Apply caulk remover if needed and scrape off every trace. Family Handyman stresses extra effort with old silicone, because new caulk will not bond to it."},
+  {"title": "Kill mildew and clean", "text": "Treat mildew in the joint with a mildew cleaner, rinse, then wipe with the solvent the caulk label recommends."},
+  {"title": "Dry completely", "text": "Let the joint dry thoroughly; overnight is safest. Fill the tub with water before caulking so it is at its lowest point and the caulk does not stretch later."},
+  {"title": "Tape and caulk", "text": "Put tape on the tub and wall about 1/8 inch from the joint. Cut the tube nozzle small, and run a steady, continuous bead into the joint."},
+  {"title": "Smooth and pull the tape", "text": "Smooth the bead with a wet fingertip or a caulk tool in one pass. Pull the tape right away at a 45 degree angle while the caulk is wet."},
+  {"title": "Let it cure", "text": "Keep water off it for the time on the label, commonly about 24 hours, then drain the tub."}
+ ],
+ "safety": [
+  "Ventilate the bathroom when using caulk remover, mildew cleaner and solvents.",
+  "Never mix bleach-based cleaners with ammonia or other cleaners.",
+  "Wear gloves and eye protection when scraping."
+ ],
+ "call_pro": [
+  "Tiles are loose, or the wall behind the tile feels soft when you press it.",
+  "Water stains appear on the ceiling below the bathroom.",
+  "The tub moves or flexes when you stand in it."
+ ],
+ "faq": [
+  {"q": "Silicone or acrylic caulk for a tub?", "a": "100% silicone lasts longest in wet areas and stays flexible. Acrylic latex kitchen and bath caulk is easier to tool and clean up and can be painted. Both should be labeled for kitchen and bath use."},
+  {"q": "Why do I fill the tub with water before caulking?", "a": "The weight makes the tub settle slightly. Caulking it in that position means the bead is not stretched and torn the first time someone takes a bath."},
+  {"q": "How often should I recaulk?", "a": "When the caulk cracks, peels, pulls away, or stays moldy after cleaning."}
+ ],
+ "sources": [
+  {"name": "Family Handyman: How to caulk a shower or bathtub", "url": "https://www.familyhandyman.com/project/how-to-re-caulk-a-shower-or-bathtub/"},
+  {"name": "This Old House: How to caulk around a bathtub", "url": "https://www.thisoldhouse.com/bathrooms/how-to-caulk-around-a-bathtub"},
+  {"name": "This Old House: Removing silicone caulk", "url": "https://www.thisoldhouse.com/bathrooms/removing-silicone-caulk"}
+ ],
+ "related": ["regrout-tile", "unclog-sink-drain", "weatherstrip-door"],
+ "published": "2026-11-09",
+ "updated": "2026-11-09"
+}

@@ -1,0 +1,50 @@
+{
+ "slug": "reset-tripped-gfci",
+ "title": "How to Reset a Tripped GFCI Outlet",
+ "category": "electrical",
+ "meta": "Outlet dead in the bathroom, kitchen or garage? Find the tripped GFCI, reset it, test it monthly, and know when a GFCI that will not reset needs an electrician.",
+ "summary": "Unplug everything on the dead outlets, find the GFCI outlet with TEST and RESET buttons (it may be in another room, the garage, or outside), and press RESET firmly until it clicks. If it will not reset or trips again right away, leave it off and call an electrician.",
+ "difficulty": "Easy",
+ "time": "5 to 15 minutes",
+ "howto_verb": "reset a GFCI outlet",
+ "keywords": ["gfci won't reset", "bathroom outlet not working", "outlet dead", "ground fault", "test button"],
+ "causes": "A GFCI (ground-fault circuit interrupter) cuts power in a fraction of a second when it senses current leaking to ground, which can mean a shock hazard, water in an outlet or appliance, or a faulty device. One GFCI often protects several regular outlets downstream, so a dead bathroom outlet may be controlled by a GFCI in another bathroom, the garage, or an outdoor outlet.",
+ "warnings": ["electrical"],
+ "tools": [
+  {"name": "Plug-in outlet tester with GFCI test button", "q": "gfci outlet tester", "note": "Shows wiring faults and trips the GFCI"},
+  {"name": "Night light or small lamp", "q": "plug in night light", "note": "For the monthly test"}
+ ],
+ "materials": [],
+ "steps": [
+  {"title": "Unplug everything on the dead outlets", "text": "A faulty hair dryer, extension cord or appliance can trip the GFCI again the moment you reset it."},
+  {"title": "Find the GFCI", "text": "Look for an outlet with TEST and RESET buttons in the same room first, then in nearby bathrooms, the kitchen, garage, basement, and outdoor outlets. Some homes have GFCI breakers in the panel instead; those have a test button on the breaker."},
+  {"title": "Press RESET", "text": "Push RESET firmly until it clicks and stays in. If the GFCI has a light, check that it shows normal operation per its label."},
+  {"title": "If it will not reset, check the breaker", "text": "Most GFCIs will not reset without power. Check the panel for a tripped breaker, reset it (fully off, then on), and try RESET again."},
+  {"title": "Plug things back in one at a time", "text": "If it trips when you plug in one item, that item is the likely problem. Stop using it."},
+  {"title": "Test it monthly", "text": "Plug in a night light, press TEST (the light should go out), then RESET (the light should come back). If the light stays on after TEST, the GFCI is not protecting you and needs replacing."}
+ ],
+ "safety": [
+  "If the outlet or an appliance is wet, keep it unplugged and dry before resetting.",
+  "Do not keep resetting a GFCI that trips with nothing plugged in.",
+  "The CPSC notes GFCIs can fail without showing any sign, which is why monthly testing matters.",
+  "Never remove or bypass a GFCI to stop nuisance tripping."
+ ],
+ "call_pro": [
+  "The GFCI will not reset even though the breaker is on.",
+  "It trips with nothing plugged in, or the light stays on after pressing TEST.",
+  "The outlet is warm, discolored, buzzing, or smells like burning.",
+  "You want GFCI protection added where it is missing. Codes require it in kitchens, bathrooms, garages, outdoors and other wet areas, and installation rules vary by location."
+ ],
+ "faq": [
+  {"q": "Why do my bathroom outlets stop working when nothing tripped there?", "a": "One GFCI often protects several outlets downstream. Check every GFCI outlet in the house, the garage and outside."},
+  {"q": "How often should I test a GFCI?", "a": "Monthly, per the CPSC and the Electrical Safety Foundation International, and after major electrical storms or power outages."},
+  {"q": "Can a GFCI wear out?", "a": "Yes. If it will not trip on TEST or will not reset, it needs replacing, usually by an electrician."}
+ ],
+ "sources": [
+  {"name": "CPSC fact sheet: What is a GFCI? (PDF)", "url": "https://www.cpsc.gov/s3fs-public/099_0.pdf"},
+  {"name": "Electrical Safety Foundation International: How to use GFCIs", "url": "https://www.esfi.org/how-to-use-gfcis/"}
+ ],
+ "related": ["reset-tripped-breaker", "replace-outlet", "replace-light-switch"],
+ "published": "2026-11-09",
+ "updated": "2026-11-09"
+}

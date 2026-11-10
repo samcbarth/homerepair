@@ -1,0 +1,54 @@
+{
+ "slug": "replace-outlet",
+ "title": "How to Replace an Electrical Outlet",
+ "category": "electrical",
+ "meta": "Replace a loose or worn wall outlet like for like: shut off and verify power, match hot, neutral and ground, and know when GFCI or AFCI rules mean calling an electrician.",
+ "summary": "Turn off the breaker, prove the outlet is dead at both receptacles with a tester, photograph the wiring, and move each wire to the matching terminal on a new outlet of the same rating: black to brass, white to silver, bare to green. Stop and call an electrician if the wiring is different or damaged.",
+ "difficulty": "Moderate",
+ "time": "30 to 60 minutes",
+ "howto_verb": "replace an outlet",
+ "keywords": ["loose outlet", "plug falls out", "replace receptacle", "outlet not working", "tamper resistant"],
+ "causes": "Outlets wear out when the contacts loosen and plugs fall out, or they crack or get damaged. A loose, warm or scorched outlet is a fire risk. This guide covers replacing a standard 15 or 20 amp outlet with the same type on the same circuit.",
+ "warnings": ["electrical"],
+ "tools": [
+  {"name": "Non-contact voltage tester", "q": "non contact voltage tester", "note": ""},
+  {"name": "Plug-in outlet tester", "q": "receptacle outlet tester", "note": "Checks the wiring after the swap"},
+  {"name": "Insulated screwdrivers", "q": "insulated screwdriver set", "note": ""},
+  {"name": "Wire stripper", "q": "wire stripper", "note": ""}
+ ],
+ "materials": [
+  {"name": "Tamper-resistant outlet, same amp rating (15A or 20A)", "q": "tamper resistant outlet 15 amp", "note": "Most codes require tamper-resistant outlets in homes"},
+  {"name": "Outlet cover plate", "q": "duplex outlet cover plate", "note": ""}
+ ],
+ "steps": [
+  {"title": "Turn off the breaker and verify", "text": "Plug in a lamp, turn off the breaker until it goes dark, then check both receptacles with the lamp or a tester. Leviton advises that if the power is not off at both outlets, you should stop and call an electrician."},
+  {"title": "Check for GFCI or AFCI requirements", "text": "Outlets in kitchens, bathrooms, garages, laundry areas, outdoors and some other areas generally need GFCI protection, and many newer codes add AFCI protection. If the old outlet was a GFCI, replace it with a GFCI and follow its line and load instructions."},
+  {"title": "Photograph and remove the old outlet", "text": "Remove the cover and mounting screws and pull the outlet out. Retest the wires. Take a photo. Note whether wires go to both sets of screws (power continues to other outlets) and whether the small tab between the brass screws is broken off (a split or switched outlet)."},
+  {"title": "Connect the new outlet", "text": "Black (hot) to brass screws, white (neutral) to silver screws, bare or green ground to the green screw. Loop wires clockwise under the screws. If the old outlet's tab was broken off, break the same tab on the new one."},
+  {"title": "Mount and test", "text": "Fold the wires in, mount the outlet, attach the plate, turn on the breaker, and check it with a plug-in tester. The lights should show correct wiring."}
+ ],
+ "safety": [
+  "Do not use the push-in back-stab holes with 12 gauge wire or if the outlet does not allow it.",
+  "Do not install a three-prong outlet where there is no ground wire unless it is GFCI protected and labeled per code. Ask an electrician.",
+  "Aluminum wiring needs an electrician.",
+  "Permit and licensing rules vary; check local requirements."
+ ],
+ "call_pro": [
+  "There is no ground, the wires are scorched, or the box is damaged.",
+  "The tester shows an open ground, reversed polarity, or other fault after the swap.",
+  "You need a new outlet location, a 240 volt outlet, or a new circuit."
+ ],
+ "faq": [
+  {"q": "What is a tamper-resistant outlet?", "a": "It has internal shutters that block objects other than plugs, which helps protect children. The National Electrical Code has required them in most new home locations for years."},
+  {"q": "15 amp or 20 amp outlet?", "a": "Match the old outlet. A 20 amp outlet has a T-shaped slot and belongs only on a 20 amp circuit with 12 gauge wire."},
+  {"q": "Why do plugs fall out of my outlet?", "a": "The internal contacts have worn out. Replace the outlet; a loose connection can overheat."}
+ ],
+ "sources": [
+  {"name": "Leviton: Finding the first outlet in a branch circuit", "url": "https://protectiondevicesandreceptacles.leviton.com/hc/en-us/articles/4402252519835-How-do-I-know-where-the-first-outlet-in-the-branch-circuit-is"},
+  {"name": "Electrical Safety Foundation International: Understanding your home electrical system", "url": "https://www.esfi.org/understanding-your-home-electrical-system/"},
+  {"name": "CPSC: Home electrical safety checklist (PDF)", "url": "https://www.cpsc.gov/s3fs-public/513.pdf"}
+ ],
+ "related": ["replace-light-switch", "reset-tripped-gfci", "reset-tripped-breaker"],
+ "published": "2026-11-09",
+ "updated": "2026-11-09"
+}

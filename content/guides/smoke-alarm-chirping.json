@@ -1,0 +1,53 @@
+{
+ "slug": "smoke-alarm-chirping",
+ "title": "How to Stop a Smoke Alarm From Chirping",
+ "category": "electrical",
+ "meta": "Smoke alarm chirping every 30 to 60 seconds? Replace the battery, check the manufacture date, clear the end-of-life warning, and know when to replace the whole alarm.",
+ "summary": "A single chirp every 30 to 60 seconds usually means a low battery: replace it with the type printed on the alarm and press TEST. If it keeps chirping with a new battery, or the alarm is 10 years past its manufacture date, replace the whole alarm.",
+ "difficulty": "Easy",
+ "time": "10 to 20 minutes",
+ "howto_verb": "stop a smoke alarm from chirping",
+ "keywords": ["smoke detector beeping", "chirping smoke alarm", "low battery chirp", "end of life", "hardwired smoke alarm"],
+ "causes": "Chirps are warnings, not alarms. Low battery is the most common cause. Sealed 10-year alarms chirp at end of life and cannot take a new battery. Hardwired alarms have a backup battery that also chirps when low. Dust, temperature swings and a battery drawer that is not fully closed can cause chirps too.",
+ "warnings": ["ladder"],
+ "tools": [
+  {"name": "Sturdy step ladder", "q": "aluminum step ladder 4 ft", "note": ""},
+  {"name": "Soft brush or vacuum attachment", "q": "vacuum brush attachment", "note": "To clear dust from the vents"}
+ ],
+ "materials": [
+  {"name": "Replacement batteries (9V or AA, as printed on the alarm)", "q": "9v lithium battery", "note": "Use the brand or type the alarm label lists"},
+  {"name": "Replacement smoke alarm, if over 10 years old", "q": "10 year sealed battery smoke alarm", "note": "Match hardwired with hardwired; check the connector brand"}
+ ],
+ "steps": [
+  {"title": "Find the chirping alarm", "text": "Stand under each alarm and wait. The chirp can echo, and interconnected alarms may all sound when one is the source."},
+  {"title": "Check the date", "text": "Twist the alarm off its base and look on the back for the manufacture date. NFPA says to replace alarms 10 years from that date, and to replace any alarm with no date."},
+  {"title": "Replace the battery", "text": "Open the battery drawer, install a fresh battery of the listed type, and close the drawer fully. On hardwired alarms, the backup battery is behind a door or on the side; the alarm can stay connected."},
+  {"title": "Reset and test", "text": "Reinstall the alarm, press and hold TEST until it sounds. Some models need the test button held for several seconds after a battery change to clear the warning."},
+  {"title": "Clean it", "text": "Gently vacuum the vents. Dust can cause false alarms and chirps."},
+  {"title": "Replace if it still chirps", "text": "If the chirp continues with a fresh battery, or it is a sealed 10-year alarm giving an end-of-life signal, replace the alarm. For hardwired alarms, turn off the breaker before unplugging the wiring harness, and use a replacement with a matching connector or follow its instructions."}
+ ],
+ "safety": [
+  "Do not remove a battery to silence a chirp and leave the alarm empty. Replace it the same day.",
+  "Never paint over a smoke alarm.",
+  "If the alarm is sounding a full alarm, treat it as a real fire until you are sure it is not.",
+  "Hardwired alarm replacement involves household wiring; turn off the breaker first. If the wiring is not a simple plug-in harness, call an electrician."
+ ],
+ "call_pro": [
+  "You are adding new hardwired or interconnected alarms.",
+  "The wiring at the ceiling box is damaged or does not match the new alarm.",
+  "Alarms false-alarm repeatedly with no smoke, steam or dust nearby."
+ ],
+ "faq": [
+  {"q": "How often should I replace smoke alarm batteries?", "a": "USFA advises replacing hardwired alarm backup batteries at least once a year. Follow the manufacturer's instructions for battery-only models."},
+  {"q": "How long do smoke alarms last?", "a": "Replace them 10 years from the manufacture date printed on the alarm, per NFPA guidance."},
+  {"q": "How often should I test smoke alarms?", "a": "Monthly, using the test button."},
+  {"q": "Why does it chirp at night?", "a": "Homes cool off at night, and a weak battery's voltage drops as it gets colder, which can trigger the low-battery chirp."}
+ ],
+ "sources": [
+  {"name": "U.S. Fire Administration: Smoke alarms", "url": "https://www.usfa.fema.gov/prevention/home-fires/prepare-for-fire/smoke-alarms/"},
+  {"name": "NFPA: Smoke alarms", "url": "https://www.nfpa.org/education-and-research/home-fire-safety/smoke-alarms"}
+ ],
+ "related": ["reset-tripped-breaker", "clean-dryer-vent", "replace-light-switch"],
+ "published": "2026-11-09",
+ "updated": "2026-11-09"
+}

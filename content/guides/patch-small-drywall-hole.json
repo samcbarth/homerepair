@@ -1,0 +1,56 @@
+{
+ "slug": "patch-small-drywall-hole",
+ "title": "How to Patch a Small Hole in Drywall",
+ "category": "walls",
+ "meta": "Patch nail holes, anchor holes and dents up to about 1 1/2 inches, and holes up to 6 inches with a self-adhesive mesh patch, using thin coats of compound.",
+ "summary": "Fill nail holes and dents with spackling or joint compound in two or three thin coats, sanding lightly between. For holes from about 1 1/2 to 6 inches, cover the hole with a self-adhesive metal or mesh patch first, then feather three thin coats of compound over it, prime and paint.",
+ "difficulty": "Easy",
+ "time": "30 minutes of work, plus drying time",
+ "howto_verb": "patch a small drywall hole",
+ "keywords": ["nail holes", "drywall dent", "doorknob hole", "spackle", "mesh patch", "wall anchor hole"],
+ "causes": "Small holes come from nails, anchors, doorknobs and furniture. The key to an invisible patch is thin coats: compound shrinks as it dries, so one thick coat cracks and sinks. Larger holes need something to bridge the gap.",
+ "warnings": [],
+ "tools": [
+  {"name": "Putty knives, 1 1/2 inch and 6 inch", "q": "putty knife set drywall", "note": ""},
+  {"name": "Sanding sponge (fine or medium)", "q": "drywall sanding sponge", "note": ""},
+  {"name": "Utility knife", "q": "utility knife", "note": "To trim torn paper edges"}
+ ],
+ "materials": [
+  {"name": "Lightweight spackling or all-purpose joint compound", "q": "lightweight spackling compound", "note": ""},
+  {"name": "Self-adhesive wall repair patch, 4 or 6 inch", "q": "drywall repair patch kit self adhesive", "note": "For holes about 1 1/2 to 6 inches"},
+  {"name": "Primer", "q": "drywall primer sealer quart", "note": "Keeps the patch from showing through paint"},
+  {"name": "Touch-up paint", "q": "paint tray and mini roller kit", "note": ""}
+ ],
+ "steps": [
+  {"title": "Prep the hole", "text": "Cut away torn paper and loose bits with a utility knife. Press a dent so nothing sticks out. For an anchor hole, pull or push in the anchor and trim it flush."},
+  {"title": "Small holes: fill in thin coats", "text": "Press compound into the hole with a small putty knife, then scrape across to leave it slightly above the surface. Let it dry fully. Apply a second thin coat a little wider. This Old House recommends two or three thin, smooth coats."},
+  {"title": "Medium holes: apply a patch", "text": "Center a self-adhesive patch over the hole and press it flat. It should overlap solid drywall on every side."},
+  {"title": "Feather the compound", "text": "With the 6 inch knife, spread a thin coat over the patch extending a couple of inches past it. Let it dry, then apply two more coats, each wider and thinner, to hide the edges."},
+  {"title": "Sand lightly", "text": "Sand with a fine sponge until smooth and flush. Run your hand over it; you should not feel a ridge. Wipe off dust."},
+  {"title": "Prime and paint", "text": "Prime the patch, then paint, feathering beyond the repair so it blends."}
+ ],
+ "safety": [
+  "Homes built before 1978 may have lead paint. Do not dry-sand old paint until you know; follow EPA lead-safe practices.",
+  "Before cutting or drilling into a wall, think about pipes and wires behind it. Wiring often runs vertically beside outlets and switches.",
+  "Wear a dust mask when sanding."
+ ],
+ "call_pro": [
+  "The hole is from a water leak; fix the leak and check for mold first.",
+  "The wall is plaster and the plaster is crumbling or loose from the lath.",
+  "The same crack or hole area keeps coming back."
+ ],
+ "faq": [
+  {"q": "Spackle or joint compound?", "a": "Lightweight spackle is easy for small holes and dries fast. All-purpose joint compound is better for larger patches and feathering wide areas."},
+  {"q": "How long does compound need to dry?", "a": "It depends on thickness, humidity and the product; read the label. Thin coats of lightweight spackle can dry within an hour; joint compound often needs several hours to overnight."},
+  {"q": "Why does my patch show through the paint?", "a": "Unprimed compound absorbs paint differently from the wall. Prime the patch and paint a wider area."}
+ ],
+ "sources": [
+  {"name": "This Old House: How to patch holes in drywall", "url": "https://www.thisoldhouse.com/walls/how-to-patch-holes-in-drywall"},
+  {"name": "This Old House: How to patch small holes in walls", "url": "https://www.thisoldhouse.com/walls/how-to-patch-small-holes-in-walls"},
+  {"name": "EPA: Protect your family from sources of lead", "url": "https://www.epa.gov/lead/protect-your-family-exposures-lead"}
+ ],
+ "related": ["patch-large-drywall-hole", "fix-drywall-nail-pops", "fix-sticking-door"],
+ "calc": "paint-coverage",
+ "published": "2026-11-09",
+ "updated": "2026-11-09"
+}

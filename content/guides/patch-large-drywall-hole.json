@@ -1,0 +1,61 @@
+{
+ "slug": "patch-large-drywall-hole",
+ "title": "How to Patch a Large Hole in Drywall",
+ "category": "walls",
+ "meta": "Patch a drywall hole bigger than 6 inches: cut a clean square, add wood backing, screw in a new piece, tape the seams, and finish with thin coats of compound.",
+ "summary": "Cut the damage into a clean square, screw wood backing strips inside the opening, screw in a matching piece of drywall, then tape the seams and finish with three thin coats of joint compound before priming and painting.",
+ "difficulty": "Moderate",
+ "time": "2 hours of work over 1 to 2 days",
+ "howto_verb": "patch a large drywall hole",
+ "keywords": ["big hole in wall", "drywall patch", "fist hole", "replace drywall section", "california patch"],
+ "causes": "Holes larger than about 6 inches are too wide for a stick-on patch. They need a new piece of drywall supported by backing so it does not flex and crack the finish.",
+ "warnings": [],
+ "tools": [
+  {"name": "Drywall jab saw", "q": "drywall jab saw", "note": ""},
+  {"name": "Cordless drill/driver", "q": "cordless drill driver kit", "note": ""},
+  {"name": "Drywall knives, 6 and 10 inch, and mud pan", "q": "drywall taping knife set mud pan", "note": ""},
+  {"name": "Framing square or straightedge", "q": "drywall t-square", "note": ""},
+  {"name": "Utility knife", "q": "utility knife", "note": ""}
+ ],
+ "materials": [
+  {"name": "Drywall panel or patch piece, same thickness (usually 1/2 inch)", "q": "drywall repair panel 2x2 half inch", "note": "Many stores sell 2 by 2 foot pieces"},
+  {"name": "1x3 wood strips for backing", "q": "1x3 furring strip", "note": ""},
+  {"name": "Drywall screws, 1 1/4 inch", "q": "drywall screws 1-1/4 coarse", "note": ""},
+  {"name": "Paper or mesh drywall tape", "q": "drywall tape mesh", "note": ""},
+  {"name": "All-purpose joint compound", "q": "all purpose joint compound", "note": ""},
+  {"name": "Primer", "q": "drywall primer", "note": ""}
+ ],
+ "steps": [
+  {"title": "Check behind the wall", "text": "Look into the hole with a flashlight for wires, pipes and ducts before cutting. Turn off the breaker for nearby outlets if wires are close."},
+  {"title": "Cut a clean square", "text": "Draw a square around the damage and cut it out with a jab saw, keeping the saw shallow."},
+  {"title": "Add backing", "text": "Slip a 1x3 strip inside the opening so it overlaps the edge, and screw through the drywall into it at each end. This Old House shows backing that overlaps into the hole by about 1 1/4 inches. Add a strip on the opposite side."},
+  {"title": "Fit the patch", "text": "Cut a drywall piece to fit with about 1/8 inch gap around it. Screw it to the backing strips with the screw heads just below the surface without tearing the paper."},
+  {"title": "Tape and first coat", "text": "Spread compound over the seams, press tape into it, and scrape off the excess. Cover the screw heads."},
+  {"title": "Finish coats", "text": "After it dries, apply two more coats, each wider and thinner, feathering several inches past the seams. Sand smooth between coats."},
+  {"title": "Prime and paint", "text": "Prime the whole patch area and paint, rolling wider than the patch to blend."}
+ ],
+ "safety": [
+  "Wiring and plumbing run inside walls. Look before you cut and keep cuts shallow.",
+  "In homes built before 1978, painted surfaces may contain lead. Follow EPA lead-safe practices for cutting and sanding.",
+  "Wear eye protection and a dust mask."
+ ],
+ "call_pro": [
+  "The hole was caused by a leak, or the framing behind it is wet, soft or moldy.",
+  "Wiring was damaged.",
+  "The wall is plaster on lath, which needs different materials."
+ ],
+ "faq": [
+  {"q": "What is a California patch?", "a": "A drywall piece cut larger than the hole with the gypsum scraped off the edges so the paper forms a flange. It works without backing for holes up to about 6 inches square."},
+  {"q": "Mesh or paper tape?", "a": "Mesh is self-adhesive and easy for beginners. Paper tape is stronger for seams and corners but must be bedded in compound."},
+  {"q": "How do I match wall texture?", "a": "Spray texture cans for orange peel or knockdown are sold at hardware stores. Practice on cardboard first."}
+ ],
+ "sources": [
+  {"name": "This Old House: How to fix a hole in the wall", "url": "https://www.thisoldhouse.com/walls/how-to-fix-a-hole-in-the-wall"},
+  {"name": "This Old House: How to patch drywall", "url": "https://www.thisoldhouse.com/walls/how-to-patch-drywall"},
+  {"name": "EPA: Protect your family from sources of lead", "url": "https://www.epa.gov/lead/protect-your-family-exposures-lead"}
+ ],
+ "related": ["patch-small-drywall-hole", "fix-drywall-nail-pops", "replace-outlet"],
+ "calc": "paint-coverage",
+ "published": "2026-11-09",
+ "updated": "2026-11-09"
+}

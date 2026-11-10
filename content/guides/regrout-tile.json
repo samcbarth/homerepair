@@ -1,0 +1,55 @@
+{
+ "slug": "regrout-tile",
+ "title": "How to Regrout Tile",
+ "category": "walls",
+ "meta": "Regrout cracked or stained tile: remove about 1/8 inch of old grout, clean the joints, press in new grout, wipe the haze, and seal. Step by step.",
+ "summary": "Scrape out the damaged grout with a grout saw or oscillating tool to about 1/8 inch deep, vacuum and dampen the joints, press new grout in diagonally with a rubber float, wipe the haze with a damp sponge, and let it cure before caulking corners or sealing.",
+ "difficulty": "Moderate",
+ "time": "3 to 6 hours for a tub surround, plus cure time",
+ "howto_verb": "regrout tile",
+ "keywords": ["cracked grout", "moldy grout", "grout repair", "shower grout", "regrouting"],
+ "causes": "Grout cracks from movement and wears or stains over time. Cracked grout lets water behind the tile. If tiles are loose or the wall behind them is soft, regrouting will not fix the underlying water damage.",
+ "warnings": [],
+ "tools": [
+  {"name": "Grout saw or oscillating tool with grout blade", "q": "grout removal tool", "note": ""},
+  {"name": "Rubber grout float", "q": "rubber grout float", "note": ""},
+  {"name": "Grout sponge and bucket", "q": "grout sponge", "note": ""},
+  {"name": "Shop vacuum", "q": "small shop vacuum", "note": ""},
+  {"name": "Safety glasses and dust mask", "q": "safety glasses dust mask kit", "note": ""}
+ ],
+ "materials": [
+  {"name": "Sanded or unsanded grout (match joint width)", "q": "premixed tile grout", "note": "Unsanded for joints 1/8 inch and smaller is the common rule"},
+  {"name": "Grout sealer, for cement grout", "q": "grout sealer", "note": ""},
+  {"name": "Kitchen and bath caulk for corners and the tub joint", "q": "kitchen and bath silicone caulk", "note": ""}
+ ],
+ "steps": [
+  {"title": "Remove old grout", "text": "Cut out the damaged grout. This Old House advises going slightly beyond the damaged area into healthy grout; Family Handyman suggests removing about 1/8 inch of depth. Work carefully to avoid chipping tile edges."},
+  {"title": "Clean the joints", "text": "Vacuum the dust and wipe the joints with a damp sponge. Leave them slightly damp, not wet."},
+  {"title": "Mix and apply grout", "text": "Mix powdered grout to the consistency on the bag, or use premixed. Hold the float at a 45 degree angle and press grout firmly into the joints with diagonal strokes."},
+  {"title": "Wipe the haze", "text": "After the time on the package, wipe diagonally with a barely damp sponge, rinsing often. Buff off any remaining haze with a dry cloth later."},
+  {"title": "Caulk the changes of plane", "text": "Let the grout dry overnight, then caulk the tub-to-tile joint and inside corners instead of grouting them, since those joints move."},
+  {"title": "Seal", "text": "Seal cement-based grout after it cures, following the sealer's timing."}
+ ],
+ "safety": [
+  "Grout dust contains silica; wear a mask and eye protection and vacuum rather than sweep.",
+  "Wear gloves; wet cement grout can irritate skin."
+ ],
+ "call_pro": [
+  "Tiles are loose, hollow-sounding, or the wall flexes.",
+  "The backer board behind the tile is wet or crumbling.",
+  "There is a leak into the room below."
+ ],
+ "faq": [
+  {"q": "Can I grout over old grout?", "a": "Not well. New grout needs depth to bond. Remove at least the top 1/8 inch."},
+  {"q": "Sanded or unsanded grout?", "a": "Follow the grout maker's joint-width chart. Unsanded is usually for narrow joints around 1/8 inch or less; sanded for wider joints."},
+  {"q": "Why should corners be caulked instead of grouted?", "a": "Walls and tubs move slightly. Grout is rigid and cracks; flexible caulk handles the movement."}
+ ],
+ "sources": [
+  {"name": "Family Handyman: How to regrout a shower", "url": "https://familyhandyman.com/tiling/grouting/regrout-wall-tile"},
+  {"name": "This Old House: How to maintain ceramic tile", "url": "https://www.thisoldhouse.com/bathrooms/21015250/maintaining-ceramic-tile"}
+ ],
+ "related": ["caulk-a-bathtub", "patch-small-drywall-hole", "clean-faucet-aerator"],
+ "calc": "tile-flooring",
+ "published": "2026-11-09",
+ "updated": "2026-11-09"
+}

@@ -1,0 +1,56 @@
+{
+ "slug": "replace-light-switch",
+ "title": "How to Replace a Light Switch",
+ "category": "electrical",
+ "meta": "Replace a worn single-pole light switch safely: shut off and verify power, note the wires, connect the new switch, and know when to call an electrician.",
+ "summary": "Turn off the breaker, confirm the power is off with a voltage tester, take a photo of the wiring, then move each wire to the same terminal on an identical new switch and connect the ground. If the wiring does not match what you expect, stop and call a licensed electrician.",
+ "difficulty": "Moderate",
+ "time": "30 to 60 minutes",
+ "howto_verb": "replace a light switch",
+ "keywords": ["light switch not working", "replace switch", "single pole switch", "wall switch", "dimmer"],
+ "causes": "Switches wear out: they get loose, crackle, feel warm, or stop turning the light on. This guide covers swapping a standard single-pole switch (one switch controls the light) for the same type. Three-way switches, smart switches that need a neutral, and dimmers follow their own instructions.",
+ "warnings": ["electrical"],
+ "tools": [
+  {"name": "Non-contact voltage tester", "q": "non contact voltage tester", "note": "Test it on a known live outlet first"},
+  {"name": "Insulated screwdrivers", "q": "insulated screwdriver set", "note": ""},
+  {"name": "Wire stripper", "q": "wire stripper 10-18 awg", "note": ""},
+  {"name": "Needle-nose pliers", "q": "needle nose pliers", "note": "To form wire loops"}
+ ],
+ "materials": [
+  {"name": "Single-pole switch, 15 amp (match the old one)", "q": "single pole light switch 15 amp", "note": "Check the old switch's amp rating and wire gauge"},
+  {"name": "Switch cover plate", "q": "decorator switch plate", "note": ""},
+  {"name": "Masking tape", "q": "masking tape", "note": "To label wires"}
+ ],
+ "steps": [
+  {"title": "Turn off the breaker", "text": "Turn the light on, then switch off breakers until it goes out. Tape a note on the panel so no one turns it back on."},
+  {"title": "Verify the power is off", "text": "Remove the cover plate. Test your voltage tester on a live outlet, then hold it near every wire and terminal in the box. Leviton's instructions say to test that power is off before any wiring. Some boxes have wires from more than one circuit."},
+  {"title": "Pull the switch and photograph it", "text": "Remove the two mounting screws and gently pull the switch out. Take a clear photo. A standard single-pole switch has two wires on brass screws and a bare or green ground. If you see more wires, a red wire, or wires marked with tape, check that you have the right switch type, or call an electrician."},
+  {"title": "Move the wires to the new switch", "text": "Disconnect one wire at a time and attach it to the matching terminal on the new switch. Bend a clockwise loop so tightening the screw pulls it in, or use the back-wire holes if the switch allows it for your wire gauge. Connect the ground to the green screw."},
+  {"title": "Mount and test", "text": "Fold the wires neatly into the box, screw the switch in with ON at the top, attach the cover plate, turn the breaker on, and test."}
+ ],
+ "safety": [
+  "Never assume the breaker label is right. Always verify with a tester at the box.",
+  "Aluminum wiring (dull gray wire, common in some 1960s and 1970s homes) needs devices rated for it and is a job for an electrician.",
+  "If you see scorched insulation, loose connections, or no ground, stop and have an electrician inspect.",
+  "Many jurisdictions limit what homeowners can do and may require permits. Check your local rules."
+ ],
+ "call_pro": [
+  "The wiring does not match what is described here.",
+  "The box is crowded, damaged, or has scorched wires.",
+  "You need a new switch location, a new circuit, or a smart switch with no neutral in the box.",
+  "Lights flicker on several circuits, which can point to a bigger problem."
+ ],
+ "faq": [
+  {"q": "Does it matter which wire goes on which screw?", "a": "On a standard single-pole switch the two brass terminals are interchangeable. The ground must go on the green screw. Three-way and smart switches have specific terminals."},
+  {"q": "Can I replace a regular switch with a dimmer?", "a": "Usually, if the bulbs are dimmable and the dimmer is rated for the load and bulb type. Follow the dimmer's instructions."},
+  {"q": "Why is my new switch warm?", "a": "Dimmers run slightly warm. A standard switch should not. Turn off the breaker and call an electrician."}
+ ],
+ "sources": [
+  {"name": "Leviton switch instruction sheet (PDF)", "url": "https://leviton.com/content/dam/leviton/residential/product_documents/instruction_sheet/6672%20Instruction%20Sheet.pdf"},
+  {"name": "Electrical Safety Foundation International: Understanding your home electrical system", "url": "https://www.esfi.org/understanding-your-home-electrical-system/"},
+  {"name": "CPSC: Guide to home wiring hazards (PDF)", "url": "https://www.cpsc.gov/s3fs-public/518.pdf"}
+ ],
+ "related": ["replace-outlet", "reset-tripped-breaker", "reset-tripped-gfci"],
+ "published": "2026-11-09",
+ "updated": "2026-11-09"
+}

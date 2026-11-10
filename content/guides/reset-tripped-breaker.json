@@ -1,0 +1,50 @@
+{
+ "slug": "reset-tripped-breaker",
+ "title": "How to Reset a Tripped Circuit Breaker",
+ "category": "electrical",
+ "meta": "Lost power to part of the house? Find the tripped breaker, reset it safely, figure out why it tripped, and know when a breaker that keeps tripping needs an electrician.",
+ "summary": "Turn off or unplug what was running on the dead circuit, open the panel, and find the breaker sitting in the middle or off position. Push it fully to OFF, then back to ON. If it trips again right away or keeps tripping, stop and call an electrician.",
+ "difficulty": "Easy",
+ "time": "5 to 15 minutes",
+ "howto_verb": "reset a circuit breaker",
+ "keywords": ["breaker keeps tripping", "power out in one room", "electrical panel", "overloaded circuit", "afci"],
+ "causes": "A breaker trips to protect the wiring. The most common cause is an overload: too many heaters, hair dryers, microwaves or vacuums on one circuit. A short circuit or ground fault trips it instantly. AFCI breakers also trip on arcing from damaged cords or loose connections, and GFCI breakers trip on ground faults.",
+ "warnings": ["electrical"],
+ "tools": [
+  {"name": "Flashlight", "q": "led headlamp", "note": "Keep one near the panel"},
+  {"name": "Panel labels or a label maker", "q": "label maker", "note": "Label circuits while you are there"}
+ ],
+ "materials": [],
+ "steps": [
+  {"title": "Unplug the likely culprit", "text": "Turn off or unplug space heaters, hair dryers and other big loads on the dead outlets and lights. Resetting with the overload still connected just trips it again."},
+  {"title": "Open the panel and look", "text": "Stand on a dry floor. A tripped breaker often sits in a middle position rather than full OFF, so look for the one handle that is not lined up with the others. AFCI and GFCI breakers may show a colored indicator."},
+  {"title": "Reset it", "text": "Push the handle firmly all the way to OFF until it clicks, then back to ON. Electrical Safety Foundation International notes that skipping the OFF step is why many resets do not work."},
+  {"title": "Check for a GFCI outlet", "text": "If power is still out in a bathroom, kitchen, garage or outside, look for a tripped GFCI outlet and press RESET."},
+  {"title": "Spread the load", "text": "Plug high-wattage appliances into outlets on different circuits. A space heater and a hair dryer on the same bathroom circuit is a classic overload."}
+ ],
+ "safety": [
+  "Never replace a breaker or fuse with a higher-rated one; it removes the wiring's protection and is a fire hazard.",
+  "Do not remove the panel cover. Only the breaker handles are meant for homeowners.",
+  "If the panel is hot, buzzing, scorched, or smells like burning, do not touch it. Call an electrician, or 911 if there is smoke.",
+  "Stay away from the panel if the floor is wet."
+ ],
+ "call_pro": [
+  "The breaker trips immediately when reset with everything unplugged.",
+  "It keeps tripping without an obvious overload.",
+  "Lights flicker or dim, outlets are warm or discolored, or you feel a tingle from an appliance.",
+  "Your home has an older panel brand with known problems or fuses, or you want new circuits added."
+ ],
+ "faq": [
+  {"q": "Why does my breaker trip when I run the microwave and toaster?", "a": "Both draw a lot of current. On a shared kitchen circuit together they can exceed the breaker's rating. Use them on different circuits."},
+  {"q": "Is it dangerous to keep resetting a breaker?", "a": "Repeated trips mean something is wrong. ESFI advises calling an electrician if the problem continues."},
+  {"q": "How do I test an AFCI breaker?", "a": "Press its test button monthly; the breaker should trip. If it does not, have an electrician replace it."}
+ ],
+ "sources": [
+  {"name": "Electrical Safety Foundation International: Fuse and breaker breakdown", "url": "https://www.esfi.org/fuse-and-breaker-breakdown/"},
+  {"name": "Electrical Safety Foundation International: How to test an AFCI", "url": "https://www.esfi.org/how-to-test-an-afci/"},
+  {"name": "CPSC: Guide to home wiring hazards (PDF)", "url": "https://www.cpsc.gov/s3fs-public/518.pdf"}
+ ],
+ "related": ["reset-tripped-gfci", "water-heater-not-hot", "replace-outlet"],
+ "published": "2026-11-09",
+ "updated": "2026-11-09"
+}

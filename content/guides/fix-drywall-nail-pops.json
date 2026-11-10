@@ -1,0 +1,54 @@
+{
+ "slug": "fix-drywall-nail-pops",
+ "title": "How to Fix Drywall Nail Pops",
+ "category": "walls",
+ "meta": "Fix drywall nail pops for good: press the panel tight, drive drywall screws above and below, set the old nail, and finish with thin coats of compound.",
+ "summary": "Press the drywall tight to the stud and drive a drywall screw about 1 1/2 inches above and below the popped nail, then set or remove the nail and cover everything with two or three thin coats of compound. Covering the pop alone will not last.",
+ "difficulty": "Easy",
+ "time": "30 minutes of work, plus drying time",
+ "howto_verb": "fix nail pops",
+ "keywords": ["nail pop", "screw pop", "bumps on wall", "drywall nail", "ceiling nail pop"],
+ "causes": "Nail pops happen when framing lumber dries and shrinks, leaving the drywall loose around the nail so the head pushes through the finish. They are common in newer homes in the first couple of years. A cluster of pops plus cracks can point to other movement worth checking.",
+ "warnings": [],
+ "tools": [
+  {"name": "Cordless drill/driver with drywall dimpler bit", "q": "drywall screw setter bit", "note": "Sets screws at the right depth"},
+  {"name": "Nail set and hammer", "q": "nail set punch", "note": ""},
+  {"name": "Putty knife, 4 to 6 inch", "q": "6 inch putty knife", "note": ""},
+  {"name": "Sanding sponge", "q": "drywall sanding sponge", "note": ""}
+ ],
+ "materials": [
+  {"name": "Drywall screws, 1 1/4 inch coarse thread", "q": "drywall screws 1-1/4", "note": ""},
+  {"name": "Lightweight joint compound or spackle", "q": "lightweight spackling compound", "note": ""},
+  {"name": "Primer and touch-up paint", "q": "drywall primer quart", "note": ""}
+ ],
+ "steps": [
+  {"title": "Push the drywall tight", "text": "Press the panel firmly against the stud with your hand next to the popped nail."},
+  {"title": "Drive two screws", "text": "Family Handyman recommends driving a drywall screw about 1 1/2 inches above and below the nail into the stud. Sink the heads just below the surface without tearing the paper."},
+  {"title": "Deal with the old nail", "text": "Tap the nail below the surface with a nail set, or pull it out if it is loose."},
+  {"title": "Fill in thin coats", "text": "Cover the screw heads and nail with compound, scraping it flush. After it dries, apply a second, slightly wider coat."},
+  {"title": "Sand, prime and paint", "text": "Sand lightly, prime the spots so they do not flash through, and paint."}
+ ],
+ "safety": [
+  "Avoid driving screws near outlets and switches where wiring runs along studs.",
+  "Use a stable ladder for ceiling pops.",
+  "In pre-1978 homes, follow EPA lead-safe practices before sanding old paint."
+ ],
+ "call_pro": [
+  "Pops come with diagonal cracks at door and window corners, or doors that bind.",
+  "A ceiling is sagging between joists.",
+  "Pops keep appearing years after construction."
+ ],
+ "faq": [
+  {"q": "Why do nail pops keep coming back?", "a": "Filling over the nail alone leaves the panel loose. Screws above and below hold it tight to the stud."},
+  {"q": "Are nail pops a structural problem?", "a": "Usually not. They are typical as framing dries. Widespread cracking or sticking doors along with pops is worth an inspection."},
+  {"q": "Should I wait to fix pops in a new house?", "a": "Many builders suggest waiting until the house has gone through a full heating and cooling season so most shrinkage is done."}
+ ],
+ "sources": [
+  {"name": "Family Handyman: How to fix popped drywall nails and screws", "url": "https://www.familyhandyman.com/project/how-to-fix-popped-drywall-nails-and-screws/"},
+  {"name": "This Old House: How to patch drywall", "url": "https://www.thisoldhouse.com/walls/how-to-patch-drywall"}
+ ],
+ "related": ["patch-small-drywall-hole", "patch-large-drywall-hole", "fix-sticking-door"],
+ "calc": "paint-coverage",
+ "published": "2026-11-09",
+ "updated": "2026-11-09"
+}
