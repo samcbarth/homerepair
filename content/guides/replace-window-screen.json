@@ -1,0 +1,50 @@
+{
+ "slug": "replace-window-screen",
+ "title": "How to Replace a Window Screen",
+ "category": "doors-windows",
+ "meta": "Rescreen a window: pull the old spline, lay new fiberglass mesh, roll in the spline with a spline roller, keep it tight and trim the excess.",
+ "summary": "Pop out the old rubber spline, lay new screen mesh over the frame, and press it into the channel with a spline roller and new spline, working around the frame while keeping the mesh taut. Trim the excess with a utility knife.",
+ "difficulty": "Easy",
+ "time": "30 to 45 minutes per screen",
+ "howto_verb": "replace a window screen",
+ "keywords": ["torn screen", "rescreen window", "screen spline", "fiberglass screen", "pet screen"],
+ "causes": "Screens tear from pets, kids, weather and age. The aluminum frame is usually fine; only the mesh and the rubber spline that holds it need replacing.",
+ "warnings": [],
+ "tools": [
+  {"name": "Spline roller (convex and concave wheels)", "q": "screen spline roller tool", "note": ""},
+  {"name": "Utility knife with a fresh blade", "q": "utility knife", "note": ""},
+  {"name": "Flat screwdriver or awl", "q": "awl tool", "note": "To lift the old spline"},
+  {"name": "Spring clamps", "q": "spring clamps set", "note": "To hold the mesh"}
+ ],
+ "materials": [
+  {"name": "Fiberglass screen mesh", "q": "fiberglass window screen roll", "note": "Pet-resistant mesh is tougher"},
+  {"name": "Rubber screen spline (match the old diameter)", "q": "screen spline", "note": "Take a piece of the old spline to match"}
+ ],
+ "steps": [
+  {"title": "Remove the screen and old spline", "text": "Take the screen out of the window, lay it flat, and lift one end of the spline with a screwdriver, then pull it out of the channel. Remove the old mesh."},
+  {"title": "Lay the new mesh", "text": "Cut the mesh about 1 inch larger than the frame on all sides and lay it square over the frame. Clamp the edges if it shifts."},
+  {"title": "Roll in two adjacent sides", "text": "Start in a corner. Use the convex wheel to push the mesh into the channel, then the concave wheel to press the spline in. Do one long side and one short side."},
+  {"title": "Keep it taut", "text": "Family Handyman suggests putting a weight in the middle of the screen before rolling the remaining sides, which helps keep the mesh tight without bowing the frame."},
+  {"title": "Finish and trim", "text": "Roll in the last two sides. If you see wrinkles, pull that section of spline and roll it again. Trim the excess mesh along the outside edge of the spline with a sharp blade angled away from the screen."}
+ ],
+ "safety": [
+  "Remove screens from upper floors from inside the house when possible; do not lean out windows.",
+  "Change to a fresh knife blade so it cuts cleanly rather than slipping."
+ ],
+ "call_pro": [
+  "The frame is bent or the corners are broken; a new frame may be simpler.",
+  "The screen is part of a specialty window or retractable system."
+ ],
+ "faq": [
+  {"q": "Fiberglass or aluminum screen?", "a": "Fiberglass is easier to work with and will not dent. Aluminum is stiffer and more durable but kinks easily during installation."},
+  {"q": "How do I know what spline size to buy?", "a": "Match the old spline's diameter, or measure the channel width. Packages list the sizes."},
+  {"q": "Why is my new screen loose?", "a": "The mesh was not held taut while rolling. Pull the spline on one side and re-roll it."}
+ ],
+ "sources": [
+  {"name": "Family Handyman: How to replace a window screen", "url": "https://www.familyhandyman.com/project/how-to-fix-a-window-screen/"},
+  {"name": "This Old House: How to replace window screens", "url": "https://www.thisoldhouse.com/windows/how-to-replace-window-screens"}
+ ],
+ "related": ["weatherstrip-door", "fix-sticking-door", "clean-gutters"],
+ "published": "2026-11-09",
+ "updated": "2026-11-09"
+}

@@ -1,0 +1,57 @@
+{
+ "slug": "clean-gutters",
+ "title": "How to Clean Gutters Safely",
+ "category": "outdoor",
+ "meta": "Clean gutters safely from a ladder: set up on firm ground with a stabilizer, scoop debris starting at the downspouts, flush with a hose, and clear clogged downspouts.",
+ "summary": "Set an extension ladder on firm, level ground with a stabilizer so it rests on the roof rather than the gutter, scoop debris into a bucket starting near the downspouts, then flush the gutters and downspouts with a garden hose. Clean at least twice a year, more often under trees.",
+ "difficulty": "Moderate",
+ "time": "2 to 4 hours for a one-story house",
+ "howto_verb": "clean gutters",
+ "keywords": ["gutter cleaning", "clogged downspout", "overflowing gutters", "ladder safety", "gutter scoop"],
+ "causes": "Leaves, seeds, shingle grit and nests fill gutters and plug downspouts. Water then spills over the edge next to the foundation, rots fascia boards, and in cold climates helps form ice dams.",
+ "warnings": ["ladder"],
+ "tools": [
+  {"name": "Extension ladder rated for your weight plus tools", "q": "extension ladder 24 ft fiberglass", "note": "Fiberglass is safer near power lines than aluminum"},
+  {"name": "Ladder stabilizer (standoff)", "q": "ladder stabilizer standoff", "note": "Keeps the ladder off the gutter"},
+  {"name": "Gutter scoop", "q": "gutter scoop", "note": ""},
+  {"name": "Bucket with a hook", "q": "ladder bucket hook", "note": "Keeps both hands free"},
+  {"name": "Work gloves and safety glasses", "q": "leather work gloves", "note": ""},
+  {"name": "Garden hose spray nozzle", "q": "hose spray nozzle", "note": ""}
+ ],
+ "materials": [
+  {"name": "Gutter sealant, for leaky seams", "q": "gutter sealant", "note": "Optional"}
+ ],
+ "steps": [
+  {"title": "Inspect the ladder and site", "text": "Check rungs, feet and locks before use. Look up for power lines. OSHA guidance says not to use a metal ladder near power lines or energized equipment."},
+  {"title": "Set up the ladder", "text": "Place it on firm, level ground with the base about 1 foot out for every 4 feet of height. Use a stabilizer so it bears on the roof, not the gutter. Keep three points of contact while climbing."},
+  {"title": "Scoop from the downspout end", "text": "Start near a downspout and work away from it so you do not push debris into the downspout. Drop debris into your bucket or onto a tarp. Move the ladder often rather than overreaching."},
+  {"title": "Flush the gutters", "text": "Run a hose from the far end toward the downspout and watch for standing water, which shows sags. This Old House advises a garden hose rather than a pressure washer, which can damage gutters."},
+  {"title": "Clear downspouts", "text": "If water backs up, spray the hose up from the bottom of the downspout or use a plumber's snake from the top."},
+  {"title": "Check the drainage", "text": "Make sure downspouts discharge several feet away from the foundation with an extension or splash block."}
+ ],
+ "safety": [
+  "Do not stand on the top three rungs of an extension ladder or the top step of a stepladder.",
+  "Do not work on a ladder in wind, rain, or when tired or dizzy.",
+  "Keep your belt buckle between the rails; move the ladder instead of leaning.",
+  "Have someone nearby, and wear shoes with slip-resistant soles."
+ ],
+ "call_pro": [
+  "The house is two stories or more, or the roof is steep.",
+  "Gutters are pulling away from the fascia or the fascia is rotted.",
+  "Power lines run near the gutters."
+ ],
+ "faq": [
+  {"q": "How often should gutters be cleaned?", "a": "This Old House suggests at least twice a year, and up to every three months under trees that shed often."},
+  {"q": "Do gutter guards eliminate cleaning?", "a": "They reduce it, but most still need periodic cleaning of the guards and occasional flushing."},
+  {"q": "Can I clean gutters from the ground?", "a": "Telescoping gutter wands that attach to a hose work for loose debris on one-story homes, though packed debris usually needs hand scooping."}
+ ],
+ "sources": [
+  {"name": "This Old House: How to clean your gutters safely", "url": "https://www.thisoldhouse.com/gutters/how-to-clean-gutters"},
+  {"name": "OSHA: Portable ladder safety quick card (PDF)", "url": "https://www.osha.gov/sites/default/files/publications/portable_ladder_qc.pdf"},
+  {"name": "American Ladder Institute: Basic ladder safety", "url": "https://www.americanladderinstitute.org/page/BasicLadderSafety"}
+ ],
+ "related": ["winterize-outdoor-faucet", "fix-leaky-outdoor-faucet", "replace-window-screen"],
+ "calc": "mulch-gravel",
+ "published": "2026-11-09",
+ "updated": "2026-11-09"
+}

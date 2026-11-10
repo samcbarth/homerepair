@@ -1,0 +1,54 @@
+{
+ "slug": "weatherstrip-door",
+ "title": "How to Weatherstrip an Exterior Door",
+ "category": "doors-windows",
+ "meta": "Stop drafts around an exterior door: find the leaks, replace worn compression or kerf weatherstripping, and add or adjust a door sweep or threshold.",
+ "summary": "Close the door on a sheet of paper or look for daylight to find gaps, then replace worn weatherstripping on the jamb with a matching compression or kerf-in seal and add or adjust a door sweep at the bottom. The door should close with light resistance and no daylight showing.",
+ "difficulty": "Easy",
+ "time": "1 to 2 hours",
+ "howto_verb": "weatherstrip a door",
+ "keywords": ["drafty door", "door sweep", "weatherstripping", "air leak", "door seal"],
+ "causes": "Weatherstripping flattens, tears and pulls loose over the years. The bottom of the door is often the biggest leak, where a sweep or threshold seal has worn out. Sealing air leaks is one of the cheaper ways to cut heating and cooling loss.",
+ "warnings": [],
+ "tools": [
+  {"name": "Utility knife or snips", "q": "utility knife", "note": ""},
+  {"name": "Tape measure", "q": "tape measure 25 ft", "note": ""},
+  {"name": "Screwdriver or drill", "q": "cordless drill driver", "note": ""},
+  {"name": "Putty knife", "q": "putty knife", "note": "To pry out old kerf seals"}
+ ],
+ "materials": [
+  {"name": "Kerf-in foam weatherstrip (for slotted jambs)", "q": "kerf door weatherstrip foam", "note": "Bring a piece of the old seal to match"},
+  {"name": "Adhesive foam or V-strip weatherstripping (for flat jambs)", "q": "v strip weatherstripping", "note": ""},
+  {"name": "Door sweep", "q": "door sweep exterior", "note": "Measure door width"},
+  {"name": "Rubbing alcohol and rags", "q": "isopropyl alcohol", "note": "To clean surfaces for adhesive"}
+ ],
+ "steps": [
+  {"title": "Find the leaks", "text": "On a bright day, close the door and look for daylight around the edges. Or close the door on a sheet of paper at several points; if it slides out with no drag, the seal there is not contacting."},
+  {"title": "Identify the type", "text": "Many modern doors use kerf-in seals pressed into a slot in the jamb. Older or simpler doors use adhesive foam, V-strip or nailed felt."},
+  {"title": "Remove the old seal", "text": "Pull kerf seals straight out of the slot. Scrape off adhesive strips and clean the surface with rubbing alcohol."},
+  {"title": "Install the new weatherstripping", "text": "Cut pieces to length for the hinge side, top and latch side. Press kerf seals into the slot starting at a corner, or apply adhesive strips to a clean, dry surface. The U.S. Department of Energy notes weatherstripping should seal well when the door is closed while still letting it operate freely."},
+  {"title": "Seal the bottom", "text": "Replace the sweep or the threshold insert. Screw-on sweeps have slotted holes: set the sweep so it lightly touches the threshold when closed, then tighten."},
+  {"title": "Test", "text": "The door should latch with slight resistance. If it is hard to close, the seal is too thick."}
+ ],
+ "safety": [
+  "Do not seal so tightly that the door will not latch; an exterior door must close and lock reliably.",
+  "In homes with fuel-burning appliances, good air sealing makes working carbon monoxide alarms and proper venting even more important."
+ ],
+ "call_pro": [
+  "The door is warped and no seal will close the gap.",
+  "The threshold or bottom of the frame is rotted.",
+  "You are planning whole-house air sealing; an energy audit can find bigger leaks."
+ ],
+ "faq": [
+  {"q": "Which weatherstripping lasts longest?", "a": "Durability varies by material. Kerf-in and vinyl or silicone bulb seals generally outlast adhesive foam, which is cheap and easy but wears faster."},
+  {"q": "How do I know if the door sweep is right?", "a": "It should brush the threshold lightly when the door is closed. Too tight and the door drags; too loose and air gets under."},
+  {"q": "Does weatherstripping really save energy?", "a": "The U.S. Department of Energy recommends caulking and weatherstripping as air sealing steps that can cut heating and cooling loss."}
+ ],
+ "sources": [
+  {"name": "U.S. Department of Energy: Weatherstripping", "url": "https://www.energy.gov/energysaver/weatherstripping"},
+  {"name": "U.S. Department of Energy: Air sealing your home", "url": "https://www.energy.gov/energysaver/air-sealing-your-home"}
+ ],
+ "related": ["fix-door-wont-latch", "fix-sticking-door", "caulk-a-bathtub"],
+ "published": "2026-11-09",
+ "updated": "2026-11-09"
+}

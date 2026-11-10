@@ -1,0 +1,54 @@
+{
+ "slug": "fix-sticking-door",
+ "title": "How to Fix a Door That Sticks",
+ "category": "doors-windows",
+ "meta": "Fix a sticking or rubbing door: find where it binds, tighten sagging hinges, shim or plane the edge, and seal bare wood so it does not swell again.",
+ "summary": "Find where the door rubs, then tighten the hinge screws, especially the top hinge; a longer screw into the framing often pulls a sagging door back square. Only if that fails, plane or sand the tight edge and seal the bare wood with primer and paint.",
+ "difficulty": "Easy to moderate",
+ "time": "30 minutes to 2 hours",
+ "howto_verb": "fix a sticking door",
+ "keywords": ["door rubbing", "door sticks in summer", "swollen door", "plane a door", "door sagging"],
+ "causes": "Doors stick because they sag on loose hinges, swell with humidity, or the frame moves as the house settles. A door that sticks only in humid months is usually swelling. One that rubs at the top latch side is usually sagging from the top hinge.",
+ "warnings": [],
+ "tools": [
+  {"name": "Screwdriver or drill/driver", "q": "cordless drill driver", "note": ""},
+  {"name": "Block plane or power planer", "q": "block plane", "note": ""},
+  {"name": "Sanding block and 80 to 120 grit paper", "q": "sanding block", "note": ""},
+  {"name": "Pencil", "q": "carpenter pencils", "note": "To mark where it rubs"}
+ ],
+ "materials": [
+  {"name": "3 inch wood screws for the top hinge", "q": "3 inch hinge screws", "note": "Match the hinge screw head and finish"},
+  {"name": "Cardboard hinge shims", "q": "door hinge shims", "note": ""},
+  {"name": "Primer and paint or clear finish", "q": "exterior primer quart", "note": "Seal any edge you plane"}
+ ],
+ "steps": [
+  {"title": "Find the tight spot", "text": "Close the door slowly and look for shiny worn paint, or slide a sheet of paper around the gap; it will bind where the door rubs. Mark the spots with pencil."},
+  {"title": "Tighten the hinges", "text": "Tighten all hinge screws. This Old House traced one sticking door to stripped screws in the top hinge, which let it sag."},
+  {"title": "Pull the door back with a long screw", "text": "Replace one short screw in the top hinge's jamb leaf with a 3 inch screw that reaches the stud. Snug it gradually; it pulls the top of the door toward the hinge side and away from the latch side."},
+  {"title": "Shim if needed", "text": "If the door rubs on the hinge side or is uneven, a thin cardboard shim behind a hinge leaf can shift it slightly."},
+  {"title": "Plane or sand as a last step", "text": "If it still sticks, take the door off its hinges if the tight spot is at the top or bottom, and plane or sand only the marked area, a little at a time. Keep checking the fit."},
+  {"title": "Seal the bare wood", "text": "Prime and paint or finish any planed edge, including the top and bottom, so it does not absorb moisture and swell again."}
+ ],
+ "safety": [
+  "Get help lifting a solid door off its hinges; they are heavy.",
+  "Wear eye protection when planing.",
+  "In pre-1978 homes, painted doors may contain lead. Avoid dry sanding or planing old paint without lead-safe precautions."
+ ],
+ "call_pro": [
+  "The door started sticking suddenly along with new cracks in walls or ceilings.",
+  "The frame is out of square or split.",
+  "It is an exterior door with rot at the bottom of the frame."
+ ],
+ "faq": [
+  {"q": "Why does my door stick only in summer?", "a": "Wood absorbs humidity and swells. Sealing all edges, including the top and bottom, slows that down."},
+  {"q": "Should I plane the door right away?", "a": "No. Tighten hinges first. Planing removes wood for good, and the door may fit fine again once the sag is fixed or the season changes."},
+  {"q": "How do I plane the bottom of a door?", "a": "Remove the door, clamp it on edge, and plane from the edges toward the middle to avoid splintering the corners."}
+ ],
+ "sources": [
+  {"name": "This Old House: How to stop a wood door from sticking", "url": "https://www.thisoldhouse.com/doors/how-to-stop-a-wood-door-from-sticking"},
+  {"name": "This Old House: How to fix a door that sticks", "url": "https://www.thisoldhouse.com/doors/how-to-fix-a-door-that-sticks"}
+ ],
+ "related": ["fix-squeaky-door", "fix-door-wont-latch", "weatherstrip-door"],
+ "published": "2026-11-09",
+ "updated": "2026-11-09"
+}

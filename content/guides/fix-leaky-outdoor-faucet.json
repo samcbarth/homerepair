@@ -1,0 +1,52 @@
+{
+ "slug": "fix-leaky-outdoor-faucet",
+ "title": "How to Fix a Leaky Outdoor Faucet (Hose Bib)",
+ "category": "outdoor",
+ "meta": "Outdoor spigot dripping or leaking at the handle? Tighten the packing nut, replace the stem washer, or fix the vacuum breaker, with the indoor shutoff off.",
+ "summary": "If water leaks around the handle, tighten the packing nut behind the handle a quarter turn. If the spout drips with the handle closed, shut off the water to the spigot, unscrew the stem, and replace the rubber washer on the end. A spigot that leaks inside the wall after a freeze needs a pro.",
+ "difficulty": "Easy to moderate",
+ "time": "30 to 60 minutes",
+ "howto_verb": "fix a leaky outdoor faucet",
+ "keywords": ["outdoor spigot leaking", "hose bib drip", "packing nut", "frost free sillcock", "vacuum breaker leak"],
+ "causes": "Handle leaks come from worn packing around the stem. A dripping spout means the rubber washer at the end of the stem is worn. Water spraying from the vacuum breaker cap on top may mean that part has failed. A frost-free sillcock that leaks inside the house after the first use in spring often froze and split over winter.",
+ "warnings": [],
+ "tools": [
+  {"name": "Adjustable wrench", "q": "adjustable wrench 10 inch", "note": ""},
+  {"name": "Screwdriver", "q": "screwdriver set", "note": ""},
+  {"name": "Flashlight", "q": "led flashlight", "note": ""}
+ ],
+ "materials": [
+  {"name": "Faucet washer and O-ring assortment", "q": "faucet washer assortment kit", "note": "Bring the old washer to match"},
+  {"name": "Packing string or packing washer", "q": "faucet packing string", "note": ""},
+  {"name": "Repair kit for your frost-free sillcock brand, if needed", "q": "frost free sillcock repair kit", "note": ""}
+ ],
+ "steps": [
+  {"title": "Try the packing nut first", "text": "If water leaks around the stem when the faucet is on, tighten the nut just behind the handle a quarter turn clockwise. If that stops it, you are done."},
+  {"title": "Shut off the water", "text": "Close the indoor shutoff for the outdoor faucet (often in the basement or crawl space near where the pipe exits), or the main water valve. Open the outdoor faucet to drain it."},
+  {"title": "Remove the stem", "text": "Remove the handle screw and handle, unscrew the packing nut, then turn the stem out counterclockwise. On frost-free models the stem is long; pull it straight out."},
+  {"title": "Replace the washer and packing", "text": "Remove the screw at the end of the stem, replace the rubber washer with an exact match, and replace the O-ring or packing. Inspect the seat inside the faucet for damage."},
+  {"title": "Reassemble and test", "text": "Thread the stem back in, tighten the packing nut snugly, reattach the handle, turn the water back on, and check for drips with the faucet closed and open."}
+ ],
+ "safety": [
+  "Do not overtighten the packing nut; it can crush the packing and make the handle stiff.",
+  "If you find a split pipe after a freeze, keep the water off and call a plumber.",
+  "Leave the hose disconnected in freezing weather."
+ ],
+ "call_pro": [
+  "Water appears inside the house, a basement ceiling, or the wall when the faucet runs.",
+  "The faucet body is cracked or the seat is badly worn.",
+  "You want to replace the spigot with a frost-free sillcock, which involves cutting and joining pipe."
+ ],
+ "faq": [
+  {"q": "Why does my outdoor faucet leak only when a hose is attached?", "a": "With the hose nozzle closed, pressure backs up into the faucet and the vacuum breaker or packing leaks. Tighten the packing nut or replace the vacuum breaker."},
+  {"q": "What is a frost-free sillcock?", "a": "A spigot with a long stem that closes the valve inside the heated house, so water does not sit in the part exposed to cold. It still freezes if a hose is left attached."},
+  {"q": "Where is the shutoff for my outdoor faucet?", "a": "Usually on the pipe inside the house just before it goes through the wall. Some homes do not have one, so use the main shutoff."}
+ ],
+ "sources": [
+  {"name": "American Red Cross: Preventing and thawing frozen pipes", "url": "https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/winter-storm/frozen-pipes.html"},
+  {"name": "EPA WaterSense: Fix a Leak Week", "url": "https://www.epa.gov/watersense/fix-leak-week"}
+ ],
+ "related": ["winterize-outdoor-faucet", "fix-leaky-faucet", "shut-off-main-water"],
+ "published": "2026-11-09",
+ "updated": "2026-11-09"
+}

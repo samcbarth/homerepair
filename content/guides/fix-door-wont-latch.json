@@ -1,0 +1,53 @@
+{
+ "slug": "fix-door-wont-latch",
+ "title": "How to Fix a Door That Won't Latch",
+ "category": "doors-windows",
+ "meta": "Door will not latch or rattles? Find where the latch hits the strike plate, tighten hinges, file or move the strike, and adjust the strike tab.",
+ "summary": "Find where the latch hits the strike plate (a little lipstick or chalk on the latch shows it), tighten the hinge screws, then file the strike opening a little larger or move the strike plate to line up. A longer screw in the top or bottom hinge can raise or lower the door.",
+ "difficulty": "Easy",
+ "time": "20 to 60 minutes",
+ "howto_verb": "fix a door that won't latch",
+ "keywords": ["door won't close", "latch misaligned", "strike plate", "door rattles", "latch not catching"],
+ "causes": "A latch misses when the door sags, the frame shifts, or the strike plate was set slightly off. A door that latches but rattles has too much gap between the door and the stop.",
+ "warnings": [],
+ "tools": [
+  {"name": "Screwdriver", "q": "screwdriver set", "note": ""},
+  {"name": "Metal file", "q": "flat metal file", "note": "To enlarge the strike opening"},
+  {"name": "Sharp chisel", "q": "wood chisel set", "note": "If the strike must move"},
+  {"name": "Lipstick, chalk or a dry-erase marker", "q": "carpenter chalk", "note": "To mark where the latch hits"}
+ ],
+ "materials": [
+  {"name": "3 inch screws for the hinge", "q": "3 inch hinge screws", "note": ""},
+  {"name": "Wood filler and toothpicks", "q": "wood filler", "note": "For old screw holes if you move the strike"}
+ ],
+ "steps": [
+  {"title": "See where the latch hits", "text": "Rub lipstick or chalk on the latch bolt and close the door gently. This Old House suggests putting masking tape on the strike so the mark shows where the latch lands."},
+  {"title": "Tighten the hinges", "text": "Loose hinge screws let the door sag. Tighten them, and fix stripped holes with glued wood slivers."},
+  {"title": "Raise or lower the door", "text": "If the latch hits too low, drive a 3 inch screw through the top hinge into the stud to pull the top of the door up and in. If it hits too high, do the same at the bottom hinge."},
+  {"title": "File the strike opening", "text": "For a miss of 1/8 inch or less, remove the strike plate and file the opening on the side where the latch hits, then reinstall."},
+  {"title": "Move the strike plate", "text": "For a bigger miss, unscrew the strike, extend the mortise with a chisel, fill the old screw holes, and remount the plate where the latch lines up."},
+  {"title": "Stop a rattle", "text": "If the door latches but rattles, bend the small tab inside the strike opening slightly toward the stop with pliers so it holds the door tighter."}
+ ],
+ "safety": [
+  "Work slowly with a chisel and keep both hands behind the cutting edge.",
+  "For exterior doors, make sure the deadbolt still throws fully after any adjustment."
+ ],
+ "call_pro": [
+  "The frame is split or the latch side jamb has pulled away from the wall.",
+  "An exterior door will not lock securely.",
+  "Several doors started misaligning at once, which can point to settling."
+ ],
+ "faq": [
+  {"q": "Why did my door suddenly stop latching?", "a": "Seasonal humidity, loose hinge screws and settling are the common causes. Check the hinges first."},
+  {"q": "Can I just move the latch on the door?", "a": "Moving the strike plate on the frame is much easier and is the usual fix."},
+  {"q": "What if the latch does not spring out?", "a": "The latch mechanism may be worn or painted over. Clean it or replace the latch set."}
+ ],
+ "sources": [
+  {"name": "This Old House: How to fix a door latch", "url": "https://www.thisoldhouse.com/doors/latch-repair"},
+  {"name": "This Old House: Lipstick trick for aligning door hardware", "url": "https://www.thisoldhouse.com/doors/lipstick-trick-for-aligning-hardware"},
+  {"name": "Family Handyman: How to fix a door that won't latch", "url": "https://www.familyhandyman.com/project/fix-a-door-that-wont-close/"}
+ ],
+ "related": ["fix-sticking-door", "fix-squeaky-door", "weatherstrip-door"],
+ "published": "2026-11-09",
+ "updated": "2026-11-09"
+}

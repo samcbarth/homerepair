@@ -1,0 +1,51 @@
+{
+ "slug": "winterize-outdoor-faucet",
+ "title": "How to Winterize Outdoor Faucets and Prevent Frozen Pipes",
+ "category": "outdoor",
+ "meta": "Winterize outdoor faucets before the first freeze: disconnect hoses, close the inside shutoff, drain the spigot, insulate, and know how to thaw a frozen pipe safely.",
+ "summary": "Before the first hard freeze, disconnect and drain hoses, close the indoor shutoff valve for each outdoor faucet, then open the outdoor faucet to drain and leave it open. Add an insulated faucet cover. Keep the house heated to at least 55 degrees F when you are away.",
+ "difficulty": "Easy",
+ "time": "15 to 30 minutes",
+ "howto_verb": "winterize outdoor faucets",
+ "keywords": ["frozen pipes", "winterize hose bib", "faucet cover", "burst pipe", "thaw pipes"],
+ "causes": "Water left in an outdoor faucet or the pipe feeding it expands as it freezes and can split the pipe. The damage often shows up as a leak inside the wall the first time the faucet is used in spring. A hose left attached traps water even in a frost-free sillcock.",
+ "warnings": [],
+ "tools": [
+  {"name": "Flashlight", "q": "led flashlight", "note": "To find indoor shutoffs"}
+ ],
+ "materials": [
+  {"name": "Insulated outdoor faucet covers", "q": "outdoor faucet cover insulated", "note": ""},
+  {"name": "Foam pipe insulation", "q": "foam pipe insulation 1/2 inch", "note": "For exposed pipes in crawl spaces and garages"},
+  {"name": "Hose reel or storage hanger", "q": "garden hose hanger", "note": ""}
+ ],
+ "steps": [
+  {"title": "Disconnect hoses", "text": "Remove every hose, drain it, and store it. The American Red Cross recommends removing, draining and storing outdoor hoses."},
+  {"title": "Close the inside shutoff", "text": "Find the valve on the pipe inside the house that feeds each outdoor faucet and close it."},
+  {"title": "Drain the faucet", "text": "Open the outdoor faucet and let it drain. If the indoor valve has a small drain cap, open it over a bucket. The Red Cross advises leaving the outside valve open so any remaining water can expand without breaking the pipe."},
+  {"title": "Cover and insulate", "text": "Put an insulated cover over each faucet. Insulate exposed pipes in unheated areas such as crawl spaces, garages and attics."},
+  {"title": "Shut down irrigation", "text": "Turn off and drain in-ground sprinkler systems following the system's instructions, or have them blown out by an irrigation pro."},
+  {"title": "Keep the heat on", "text": "During cold snaps, open cabinet doors under sinks on outside walls and let a faucet drip. When away, keep the heat at 55 degrees F or higher."}
+ ],
+ "safety": [
+  "Never use an open flame, torch or propane heater to thaw a pipe.",
+  "To thaw a frozen pipe, open the faucet and apply gentle heat with a hair dryer, heating pad or warm towels, working from the faucet back toward the frozen section.",
+  "If a pipe has burst, shut off the main water valve right away."
+ ],
+ "call_pro": [
+  "You cannot locate or reach the frozen section of pipe.",
+  "A pipe has burst or water is leaking inside a wall or ceiling.",
+  "You want frost-free sillcocks or heat cable installed."
+ ],
+ "faq": [
+  {"q": "Do frost-free faucets need winterizing?", "a": "They still need the hose removed so the long stem can drain. An insulated cover adds protection."},
+  {"q": "When should I winterize outdoor faucets?", "a": "Before the first hard freeze forecast for your area."},
+  {"q": "Should I let faucets drip in freezing weather?", "a": "The National Weather Service and the Red Cross note that running water, even at a trickle, helps prevent pipes from freezing."}
+ ],
+ "sources": [
+  {"name": "American Red Cross: Preventing and thawing frozen pipes", "url": "https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/winter-storm/frozen-pipes.html"},
+  {"name": "U.S. Department of Energy: Air sealing your home", "url": "https://www.energy.gov/energysaver/air-sealing-your-home"}
+ ],
+ "related": ["fix-leaky-outdoor-faucet", "shut-off-main-water", "clean-gutters"],
+ "published": "2026-11-09",
+ "updated": "2026-11-09"
+}

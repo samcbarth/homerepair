@@ -1,0 +1,49 @@
+{
+ "slug": "fix-squeaky-door",
+ "title": "How to Fix a Squeaky Door Hinge",
+ "category": "doors-windows",
+ "meta": "Stop a squeaky door: tighten hinge screws, pull and clean the hinge pin, lubricate with multipurpose oil or dry graphite, and fix stripped screw holes.",
+ "summary": "Tighten the hinge screws first, then tap out each hinge pin one at a time, clean it, and coat it with a light multipurpose oil or a dry graphite lubricant before tapping it back in. If a screw spins without tightening, fill the hole with glued wood slivers and redrive it.",
+ "difficulty": "Easy",
+ "time": "15 to 30 minutes",
+ "howto_verb": "fix a squeaky door",
+ "keywords": ["squeaky hinge", "creaky door", "door hinge noise", "hinge pin", "stripped hinge screw"],
+ "causes": "Squeaks come from metal rubbing on metal: a dry or rusty hinge pin, or a hinge that has loosened so the leaves rub. Loose screws in the top hinge also let the door sag, which can make it rub the frame.",
+ "warnings": [],
+ "tools": [
+  {"name": "Screwdriver", "q": "screwdriver set", "note": ""},
+  {"name": "Hammer and nail set (or a thin punch)", "q": "nail set punch set", "note": "To tap the hinge pin up"},
+  {"name": "Steel wool or fine sandpaper", "q": "fine steel wool", "note": "To clean rust off the pin"}
+ ],
+ "materials": [
+  {"name": "Multipurpose lubricating oil", "q": "multipurpose household oil", "note": ""},
+  {"name": "Dry graphite or PTFE lubricant", "q": "dry graphite lubricant", "note": "Does not attract dust"},
+  {"name": "Wood glue and toothpicks or wood slivers", "q": "wood glue", "note": "For stripped screw holes"}
+ ],
+ "steps": [
+  {"title": "Tighten the screws", "text": "Check every screw in every hinge, on the door and the jamb. Tighten them snugly by hand."},
+  {"title": "Fix any stripped holes", "text": "If a screw spins, remove it, push a few glue-dipped toothpicks or a wood sliver into the hole, let the glue dry, trim it flush, and redrive the screw. This Old House recommends this method. A longer screw into the framing also works for the top hinge."},
+  {"title": "Pull one hinge pin", "text": "With the door closed, set a nail set under the pin's head and tap upward. Do one hinge at a time so the door stays in place."},
+  {"title": "Clean and lubricate", "text": "Wipe the pin clean and rub off rust with steel wool. Coat it lightly with multipurpose oil, or with dry graphite if you want to avoid drips and dust."},
+  {"title": "Reinstall and swing the door", "text": "Tap the pin back down, wipe off excess oil, and open and close the door several times. Repeat for the other hinges."}
+ ],
+ "safety": [
+  "Keep a hand on the door when pins are out so it cannot fall.",
+  "Protect the floor from oil drips with a rag."
+ ],
+ "call_pro": [
+  "The door or frame is cracked or split at the hinges.",
+  "The frame has shifted and gaps around the door are getting bigger, which can point to settling."
+ ],
+ "faq": [
+  {"q": "Is WD-40 good for squeaky hinges?", "a": "A light spray can quiet a hinge for a while, but it is mostly a cleaner and water displacer. A dedicated oil or dry graphite tends to last longer."},
+  {"q": "Why does only one hinge squeak?", "a": "The top hinge carries the most load as the door pulls away from the frame, so it wears and loosens first."},
+  {"q": "Can I lubricate without removing the pin?", "a": "You can drip oil at the top of the pin and swing the door, but cleaning the pin works better."}
+ ],
+ "sources": [
+  {"name": "This Old House: How to quiet a squeaky door", "url": "https://www.thisoldhouse.com/how-to-quiet-a-squeaky-door"}
+ ],
+ "related": ["fix-sticking-door", "fix-door-wont-latch", "weatherstrip-door"],
+ "published": "2026-11-09",
+ "updated": "2026-11-09"
+}

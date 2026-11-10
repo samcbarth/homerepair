@@ -1,0 +1,55 @@
+{
+ "slug": "clean-dryer-vent",
+ "title": "How to Clean a Dryer Vent",
+ "category": "appliances",
+ "meta": "Clothes taking forever to dry? Clean the lint trap housing, the transition duct and the vent to the outside with a brush kit, and check the outdoor flap.",
+ "summary": "Unplug the dryer (and shut off gas at the dryer's valve for a gas dryer), pull it out, disconnect the duct, and run a dryer vent brush through the duct and the wall vent to the outdoor hood. Vacuum the lint trap housing, reconnect with rigid or semi-rigid metal duct, and check that the outside flap opens when the dryer runs.",
+ "difficulty": "Easy to moderate",
+ "time": "1 to 2 hours",
+ "howto_verb": "clean a dryer vent",
+ "keywords": ["dryer vent cleaning", "dryer takes too long", "lint buildup", "dryer fire", "dryer duct"],
+ "causes": "Lint escapes the lint screen and builds up in the screen housing, the transition duct behind the dryer, and the vent to the outside. Long runs, many bends, crushed foil or plastic duct, and a stuck outdoor flap make it worse. NFPA lists lint, dust and fiber as a leading item first ignited in home dryer fires.",
+ "warnings": ["gas"],
+ "tools": [
+  {"name": "Dryer vent cleaning brush kit with flexible rods", "q": "dryer vent cleaning kit", "note": "Rods attach to a drill on some kits"},
+  {"name": "Vacuum with a long crevice tool", "q": "dryer lint vacuum attachment", "note": ""},
+  {"name": "Screwdriver or nut driver", "q": "nut driver set", "note": "For duct clamps"}
+ ],
+ "materials": [
+  {"name": "Semi-rigid or rigid metal transition duct, 4 inch", "q": "semi rigid aluminum dryer duct 4 inch", "note": "Replace foil or plastic duct"},
+  {"name": "Foil tape (not cloth duct tape)", "q": "aluminum foil tape hvac", "note": ""},
+  {"name": "Duct clamps", "q": "4 inch dryer duct clamp", "note": ""}
+ ],
+ "steps": [
+  {"title": "Turn it off", "text": "Unplug the dryer. For a gas dryer, also close the gas shutoff valve on the dryer's supply line. Be careful not to kink or strain the gas connector when you move the dryer."},
+  {"title": "Disconnect the duct", "text": "Pull the dryer out and loosen the clamp at the dryer outlet and the wall. Clean out lint from both ends."},
+  {"title": "Brush the vent", "text": "Feed the brush through the wall duct toward the outside, spinning it in the direction the kit specifies so the rods do not unscrew. Work from the outside hood inward too if you can reach it."},
+  {"title": "Clean the lint screen housing", "text": "Pull out the lint screen and vacuum deep into the slot. A CPSC report notes lint can build up inside the dryer even when the screen is cleaned every load."},
+  {"title": "Clear the outdoor hood", "text": "Remove lint, nests or debris from the outside hood and make sure the flap swings freely. Never put a screen over a dryer vent; it traps lint."},
+  {"title": "Reconnect and test", "text": "Use rigid or semi-rigid metal duct, as short and straight as possible. Secure with clamps and foil tape, not screws that catch lint. Push the dryer back without crushing the duct, turn the gas back on if applicable, run the dryer, and check that the outside flap opens."}
+ ],
+ "safety": [
+  "If you smell gas after moving a gas dryer, leave the house and call the gas utility from outside.",
+  "Never run the dryer without the lint filter.",
+  "Clean the lint screen before or after every load.",
+  "Do not use plastic or foil accordion duct, which crushes and traps lint."
+ ],
+ "call_pro": [
+  "The vent runs to the roof or is longer than you can reach.",
+  "The duct inside the wall is crushed or disconnected.",
+  "The gas connector is old, kinked, or you are not comfortable moving a gas dryer."
+ ],
+ "faq": [
+  {"q": "How often should a dryer vent be cleaned?", "a": "NFPA's consumer tip sheet suggests at least once a year, or sooner if drying takes longer than normal. Its fire service reference suggests more often for heavy use."},
+  {"q": "What are signs of a clogged dryer vent?", "a": "Clothes still damp after a normal cycle, the dryer or laundry room getting hot, a burning smell, or the outdoor flap not opening."},
+  {"q": "Can I use a leaf blower to clean the vent?", "a": "Some people do, but a brush kit removes compacted lint more reliably and does not blow lint into the house."}
+ ],
+ "sources": [
+  {"name": "NFPA: Clothes dryer safety tips (PDF)", "url": "https://www.nfpa.org/-/media/project/storefront/catalog/files/safety-tip-sheets/dryersafetytips.pdf"},
+  {"name": "U.S. Fire Administration: Clothes dryer fire safety (PDF)", "url": "https://www.usfa.fema.gov/downloads/pdf/publications/clothes_dryer_fire_safety_flyer.pdf"},
+  {"name": "CPSC: Clothes dryer lint study (PDF)", "url": "https://www.cpsc.gov/s3fs-public/clothesdryerindicator.pdf"}
+ ],
+ "related": ["smoke-alarm-chirping", "fridge-not-cooling", "clean-gutters"],
+ "published": "2026-11-09",
+ "updated": "2026-11-09"
+}

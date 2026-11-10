@@ -1,0 +1,53 @@
+{
+ "slug": "fridge-not-cooling",
+ "title": "Refrigerator Not Cooling? What to Check",
+ "category": "appliances",
+ "meta": "Fridge warm but running? Check the settings and demo mode, door seals, blocked vents, condenser coils and fans before you call for refrigerator repair.",
+ "summary": "Check that the temperature controls are set correctly and the cooling is not switched off or in demo mode, make sure vents inside are not blocked by food, check the door seals, and clean dusty condenser coils with the fridge unplugged. If those checks do not help, a fan, compressor or control likely needs a technician.",
+ "difficulty": "Easy",
+ "time": "30 to 60 minutes",
+ "howto_verb": "troubleshoot a refrigerator that is not cooling",
+ "keywords": ["fridge warm", "refrigerator not cold", "condenser coils", "freezer works fridge doesn't", "door gasket"],
+ "causes": "A fridge that runs but stays warm usually has an airflow or heat-exchange problem: food blocking the vents between freezer and fridge, dusty condenser coils, a stuck condenser or evaporator fan, a frosted-over evaporator, or leaky door gaskets. Settings matter too: a control turned down, or a showroom demo mode left on, stops cooling.",
+ "warnings": [],
+ "tools": [
+  {"name": "Refrigerator coil cleaning brush", "q": "refrigerator coil cleaning brush", "note": ""},
+  {"name": "Vacuum with a crevice tool", "q": "vacuum crevice tool", "note": ""},
+  {"name": "Appliance thermometer", "q": "refrigerator thermometer", "note": "To check actual temperature"},
+  {"name": "Flashlight", "q": "led flashlight", "note": ""}
+ ],
+ "materials": [],
+ "steps": [
+  {"title": "Check the controls", "text": "Make sure cooling is on and the setting has not been changed. Whirlpool's troubleshooting includes checking whether the cooling function is turned off. Look in the manual for a demo or showroom mode, which runs lights but not cooling."},
+  {"title": "Measure the temperature", "text": "Put an appliance thermometer in a glass of water in the middle of the fridge for several hours. The FDA recommends keeping the refrigerator at or below 40 degrees F."},
+  {"title": "Clear the vents and avoid overpacking", "text": "Cold air usually flows from the freezer through vents. Move food away from vents in both compartments and leave room for air to circulate."},
+  {"title": "Check the door seals", "text": "Close the door on a dollar bill. If it slides out easily, the gasket may need cleaning or replacing. Clean gaskets with warm soapy water."},
+  {"title": "Clean the condenser coils", "text": "Unplug the fridge. Remove the base grille if your model has one, and brush and vacuum the coils and the area around them. GE Appliances publishes coil cleaning steps; coils may be at the bottom or back depending on the model, and some models have sealed coils that do not need cleaning."},
+  {"title": "Listen for the fans", "text": "With the fridge running, you should hear the condenser fan near the compressor and the evaporator fan inside the freezer. Silence or grinding from a fan points to a service call."},
+  {"title": "Give it time", "text": "After cleaning or a power outage, allow up to 24 hours to return to normal temperature."}
+ ],
+ "safety": [
+  "Unplug the refrigerator before cleaning coils or removing panels.",
+  "Do not puncture or cut into refrigerant tubing.",
+  "If food has been above 40 degrees F for more than 2 hours, follow food safety guidance and discard perishables."
+ ],
+ "call_pro": [
+  "The compressor runs constantly but nothing gets cold, or it clicks on and off.",
+  "Fans are silent or noisy.",
+  "Frost builds up on the freezer's back wall, which can point to a defrost system problem.",
+  "Any sealed system (refrigerant) repair. That requires a certified technician."
+ ],
+ "faq": [
+  {"q": "How often should I clean refrigerator coils?", "a": "Whirlpool says routine cleaning is often not needed in a typical home, but homes with pets, dust or grease may need it every few months. Check your manual."},
+  {"q": "Why is my freezer cold but my fridge warm?", "a": "Cold air reaches the fridge from the freezer through a vent and fan. A blocked vent, a failed evaporator fan, or frost on the evaporator are common causes."},
+  {"q": "What temperature should a refrigerator be?", "a": "At or below 40 degrees F for the fridge and 0 degrees F for the freezer, per FDA food safety guidance."}
+ ],
+ "sources": [
+  {"name": "Whirlpool: Why is my refrigerator not cooling?", "url": "https://www.whirlpool.com/blog/kitchen/why-is-my-refrigerator-not-cooling.html"},
+  {"name": "GE Appliances: Refrigerator, cleaning condenser coils", "url": "https://products.geappliances.com/appliance/gea-support-search-content?contentId=16266"},
+  {"name": "FDA: Are you storing food safely?", "url": "https://www.fda.gov/consumers/consumer-updates/are-you-storing-food-safely"}
+ ],
+ "related": ["clean-dryer-vent", "reset-tripped-breaker", "dishwasher-not-draining"],
+ "published": "2026-11-09",
+ "updated": "2026-11-09"
+}

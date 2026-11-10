@@ -1,0 +1,50 @@
+{
+ "slug": "fix-garbage-disposal-jam",
+ "title": "How to Fix a Jammed Garbage Disposal",
+ "category": "appliances",
+ "meta": "Garbage disposal humming or dead? Turn it off, free the jam with the hex wrench under the unit, press the red reset button, and test. Never reach inside.",
+ "summary": "Turn the disposal switch off (unplug it or shut the breaker if you can), insert the 1/4 inch hex wrench into the socket in the center of the bottom of the unit, and work it back and forth until it turns freely. Remove the loosened object with tongs, let the motor cool, press the red reset button on the bottom, and test with cold water running.",
+ "difficulty": "Easy",
+ "time": "10 to 30 minutes",
+ "howto_verb": "fix a jammed garbage disposal",
+ "keywords": ["disposal humming", "disposal not working", "reset button disposal", "insinkerator jammed", "hex wrench"],
+ "causes": "A disposal that hums but does not spin is jammed, usually by a bone, fruit pit, utensil or bottle cap wedged between the turntable and grind ring. A disposal that is silent has usually tripped its thermal overload (the red reset button) or lost power at the switch, outlet or breaker.",
+ "warnings": ["electrical"],
+ "tools": [
+  {"name": "1/4 inch hex (Allen) wrench or the disposal's jam wrench", "q": "garbage disposal wrench", "note": "InSinkErator ships a wrench with each unit"},
+  {"name": "Flashlight", "q": "led flashlight", "note": ""},
+  {"name": "Long kitchen tongs or pliers", "q": "long kitchen tongs", "note": "Never use your hand"}
+ ],
+ "materials": [],
+ "steps": [
+  {"title": "Turn it off", "text": "Switch the disposal off. If it plugs into an outlet under the sink, unplug it; otherwise turn off its breaker. InSinkErator says to make certain the switch is off and never put your hand in the disposal."},
+  {"title": "Free the jam from below", "text": "Insert the hex wrench into the center hole on the bottom of the disposal. Work it back and forth in both directions until it turns freely in complete circles. InSinkErator notes the wrench is designed to bend before the disposal is damaged, so some force is OK."},
+  {"title": "Remove the object", "text": "Look into the drain opening with a flashlight and remove the loosened object with tongs or pliers."},
+  {"title": "Let it cool and press reset", "text": "Let the motor cool for a few minutes. Find the small red button on the bottom of the unit. If it has popped out, press it gently. If it will not stay in, wait about 10 minutes and try again. Never strike it with a tool."},
+  {"title": "Test with cold water", "text": "Restore power, run cold water, and turn the disposal on. If it jams again, repeat the wrench step."},
+  {"title": "Check power if it is silent", "text": "If it is still silent, check the breaker, a GFCI outlet that may feed it, and that it is plugged in."}
+ ],
+ "safety": [
+  "Never put your hand into a disposal, even with the power off.",
+  "Do not use chemical drain cleaners in a disposal.",
+  "Keep fibrous, hard and non-food items out of the disposal, per the owner's manual."
+ ],
+ "call_pro": [
+  "It still hums and will not turn after the wrench frees it.",
+  "The reset button trips every time you run it.",
+  "Water leaks from the bottom of the unit, which usually means the disposal needs replacing.",
+  "Hardwired disposals with damaged wiring or a faulty switch need an electrician."
+ ],
+ "faq": [
+  {"q": "Where is the reset button on a garbage disposal?", "a": "InSinkErator places a small red button on the bottom of the unit, facing the floor. Some commercial models put it on the front electrical cover."},
+  {"q": "What if I lost the disposal wrench?", "a": "A standard 1/4 inch Allen wrench fits most InSinkErator models."},
+  {"q": "Why does my disposal hum but not spin?", "a": "The motor has power but the grinding plate is jammed. Free it with the hex wrench before running it again, or the overload will trip."}
+ ],
+ "sources": [
+  {"name": "InSinkErator: Fixing a jammed garbage disposal", "url": "https://www.insinkerator.com/en-us/support/fixing-a-jammed-garbage-disposal"},
+  {"name": "InSinkErator support: Resetting a garbage disposal", "url": "https://support.insinkerator.com/app/answers/detail/a_id/516/~/resetting-a-garbage-disposal"}
+ ],
+ "related": ["dishwasher-not-draining", "unclog-sink-drain", "reset-tripped-gfci"],
+ "published": "2026-11-09",
+ "updated": "2026-11-09"
+}

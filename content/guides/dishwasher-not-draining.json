@@ -1,0 +1,51 @@
+{
+ "slug": "dishwasher-not-draining",
+ "title": "Dishwasher Not Draining? How to Fix It",
+ "category": "appliances",
+ "meta": "Standing water in the dishwasher? Check the disposal knockout plug, run the disposal, clear the air gap and drain hose, and clean the filter, in that order.",
+ "summary": "Check the sink side first: run the garbage disposal, clean the air gap cap if you have one, and look for a kinked drain hose. Then pull and rinse the filter in the bottom of the tub. On a newly installed dishwasher, the disposal's knockout plug may still be in place.",
+ "difficulty": "Easy",
+ "time": "20 to 45 minutes",
+ "howto_verb": "fix a dishwasher that won't drain",
+ "keywords": ["standing water dishwasher", "dishwasher filter", "air gap", "drain hose", "knockout plug"],
+ "causes": "Most drain problems are clogs: a dirty filter, a clogged disposal or sink drain, a blocked air gap, or a kinked or sagging drain hose. On a new install, a disposal knockout plug that was never removed blocks drainage completely. A failed drain pump is less common and needs service.",
+ "warnings": [],
+ "tools": [
+  {"name": "Towels and a shallow pan or cup", "q": "microfiber towels", "note": "To bail water"},
+  {"name": "Flashlight", "q": "led flashlight", "note": ""},
+  {"name": "Soft brush", "q": "cleaning brush set", "note": "For the filter"},
+  {"name": "Screwdriver and hammer, for a knockout plug", "q": "screwdriver set", "note": ""}
+ ],
+ "materials": [],
+ "steps": [
+  {"title": "Run the disposal and sink", "text": "Built-in dishwashers usually drain through the disposal or sink drain. Run the disposal with water to clear it, and make sure the sink itself drains well."},
+  {"title": "Clean the air gap", "text": "If there is a small chrome cylinder on the sink deck, pull off its cap and clean out debris. Whirlpool lists this as a common fix."},
+  {"title": "Check the drain hose", "text": "Under the sink, look for kinks or a crushed section. The hose should loop up high (a high loop) or connect to an air gap so dirty water cannot flow back."},
+  {"title": "Clean the filter", "text": "Turn off the dishwasher, bail out standing water, and remove the filter from the floor of the tub (usually twist and lift). Rinse it, brush off residue, check the sump for glass, seeds or labels, and lock the filter back in fully."},
+  {"title": "New install? Check the knockout plug", "text": "If the dishwasher is new or the disposal was just replaced, the disposal's inlet may still have its knockout plug. With power to the disposal off, disconnect the drain hose at the disposal and knock the plug into the disposal with a screwdriver and hammer, then remove it from inside with pliers."},
+  {"title": "Run a short cycle", "text": "Start a rinse or short cycle and check that the water drains. If it still does not, the pump or control may need service."}
+ ],
+ "safety": [
+  "Turn off the dishwasher and, for the knockout plug step, the disposal power before working.",
+  "Do not reach into the garbage disposal.",
+  "Watch for broken glass in the sump; use tongs or gloves."
+ ],
+ "call_pro": [
+  "You hear humming or no sound at drain time and the filter and hoses are clear.",
+  "The dishwasher shows a drain error code that persists after cleaning.",
+  "Water is leaking onto the floor."
+ ],
+ "faq": [
+  {"q": "Is a little water in the bottom of a dishwasher normal?", "a": "Some models keep a small amount of water in the sump. Water above the filter at the end of a cycle is not normal."},
+  {"q": "How often should I clean the dishwasher filter?", "a": "Check your manual. Many manufacturers suggest every month or so, more often if you do not rinse dishes."},
+  {"q": "What is a high loop?", "a": "Routing the drain hose up to the underside of the counter before it drops to the disposal or drain, which helps keep sink water from flowing back into the dishwasher."}
+ ],
+ "sources": [
+  {"name": "Whirlpool: Dishwasher not draining", "url": "https://producthelp.whirlpool.com/Dishwashers/Product_Info/Dishwasher_Product_Assistance/Dishwasher_Not_Draining"},
+  {"name": "Whirlpool: Newly installed dishwasher not draining", "url": "https://producthelp.whirlpool.com/Dishwashers/Product_Info/Dishwasher_Product_Assistance/Newly_Installed_Dishwasher_Not_Draining"},
+  {"name": "Whirlpool: How to unclog a dishwasher drain", "url": "https://www.whirlpool.com/blog/kitchen/how-to-fix-a-clogged-dishwasher.html"}
+ ],
+ "related": ["fix-garbage-disposal-jam", "unclog-sink-drain", "fix-leaking-p-trap"],
+ "published": "2026-11-09",
+ "updated": "2026-11-09"
+}
