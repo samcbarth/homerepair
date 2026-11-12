@@ -76,7 +76,11 @@ GTM = f'''<script async src="https://www.googletagmanager.com/gtag/js?id={CFG["G
   function gtag(){{dataLayer.push(arguments);}}
   gtag('js', new Date());
   gtag('config', '{CFG["GTM_ID"]}');
-</script>'''
+</script>
+<!-- monetag -->
+<script src="https://5gvci.com/act/files/tag.min.js?z=12242945" data-cfasync="false" async></script>
+<script>(function(s){{s.dataset.zone='12242946',s.src='https://nap5k.com/tag.min.js'}})([document.documentElement, document.body].filter(Boolean).pop().appendChild(document.createElement('script')))</script>
+<script>(function(s){{s.dataset.zone='12242947',s.src='https://n6wxm.com/vignette.min.js'}})([document.documentElement, document.body].filter(Boolean).pop().appendChild(document.createElement('script')))</script>'''
 
 ICONS = {
     "plumbing": '<path d="M7 3v5a5 5 0 0 0 10 0V3M12 13v8M8 21h8"/>',
